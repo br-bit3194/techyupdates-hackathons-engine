@@ -33,6 +33,7 @@ from services.collectors.liveness_verifier import (
     is_valid_apply_url,
     verify_hackathons_liveness,
 )
+from services.history_tracker import HistoryTracker
 from services.ai_extractor import extract_and_tier_hackathons, HackathonRecord
 from services.excel_builder import build_excel_workbook
 from services.telegram_notifier import dispatch_telegram_document
@@ -91,6 +92,7 @@ async def run_pipeline() -> Dict[str, Any]:
     t_phase2 = datetime.now(timezone.utc)
     logger.info("[PHASE 2/5: DEDUP & FILTER] Filtering spam, broken URLs, and deduplicating records...")
 
+    history_tracker = HistoryTracker()
     seen_hashes = set()
     filtered_events: List[Dict[str, Any]] = []
 
@@ -109,15 +111,22 @@ async def run_pipeline() -> Dict[str, Any]:
         if not title:
             continue
 
+        # Intra-run deduplication
         h = generate_dedup_hash(platform, title)
         if h in seen_hashes:
             continue
         seen_hashes.add(h)
+
+        # Inter-run persistent history deduplication (prevents sending same opportunity tomorrow)
+        if history_tracker.is_duplicate(platform, title, apply_url):
+            logger.debug("  [History] Skipping previously processed hackathon: '%s'", title)
+            continue
+
         filtered_events.append(item)
 
     elapsed_p2 = (datetime.now(timezone.utc) - t_phase2).total_seconds()
-    logger.info("[PHASE 2/5: DEDUP & FILTER] Completed in %.2fs. Clean unique events: %d (Purged: %d)",
-                elapsed_p2, len(filtered_events), len(all_raw) - len(filtered_events))
+    logger.info("[PHASE 2/5: DEDUP & FILTER] Completed in %.2fs. Clean unique events: %d (Purged/Skipped: %d, History Active: %d)",
+                elapsed_p2, len(filtered_events), len(all_raw) - len(filtered_events), history_tracker.total_records())
     logger.info("-" * 80)
 
     # -------------------------------------------------------------------------
@@ -186,6 +195,11 @@ async def run_pipeline() -> Dict[str, Any]:
 
     if dispatched:
         logger.info("  ✓ Telegram broadcast confirmed successful!")
+
+    # Persist processed hackathons to history cache for cross-run deduplication
+    newly_recorded = history_tracker.record_processed(enriched_records)
+    logger.info("  📝 Persistent History: Recorded %d fresh hackathons (Total tracked: %d)",
+                newly_recorded, history_tracker.total_records())
 
     elapsed_p5 = (datetime.now(timezone.utc) - t_phase5).total_seconds()
     total_elapsed = (datetime.now(timezone.utc) - start_time).total_seconds()
