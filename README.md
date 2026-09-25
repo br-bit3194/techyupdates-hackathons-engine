@@ -19,7 +19,7 @@ Enriched using **Google Gemini 3 AI**, the engine compiles an enterprise-grade 4
 * **Anti-Scam & Quality Filter:** MD5 deduplication and blacklist heuristics purge fake paid contests, spam MLM tokens, and dubious fee-charging certificate schemes.
 * **In-Memory Excel Generation:** Compiles 4 styled, color-coded tabs with auto-filters, frozen headers, and 1-click clickable registration hyperlinks (`openpyxl`).
 * **Automated Telegram Channel Broadcast:** Humanized summary captions and direct document delivery to Telegram channels via Bot API.
-* **Zero Server Infrastructure:** Runs on GitHub Actions automated daily cron (`14:15 UTC / 7:45 PM IST`) and Vercel Python serverless functions.
+* **Zero Server Infrastructure:** Runs on GitHub Actions automated daily cron (`02:30 UTC / 8:00 AM IST`) and Vercel Python serverless functions.
 
 ---
 

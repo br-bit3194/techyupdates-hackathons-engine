@@ -2,8 +2,8 @@ name: TechyUpdates Hackathons Engine - Daily Pipeline
 
 on:
   schedule:
-    # Runs daily at 14:15 UTC (7:45 PM IST)
-    - cron: '15 14 * * *'
+    # Runs daily at 02:30 UTC (8:00 AM IST)
+    - cron: '30 2 * * *'
   workflow_dispatch: # Allows manual trigger from GitHub Actions tab
 
 jobs:

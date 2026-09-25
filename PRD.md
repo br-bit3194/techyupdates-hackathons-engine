@@ -2,7 +2,7 @@
 ## Autonomous Global Hackathons & Competitions Radar
 **Project Name:** `techyupdates-hackathons-engine` (TechyUpdates Hackathon Radar)  
 **Version:** 2.1 (Production)  
-**Primary Execution:** GitHub Actions (Automated Daily Cron @ 7:45 PM IST / 14:15 UTC & Manual Trigger)  
+**Primary Execution:** GitHub Actions (Automated Daily Cron @ 8:00 AM IST / 02:30 UTC & Manual Trigger)  
 **Secondary Execution:** Vercel Serverless Function (`api/trigger.py` / `api/health.py`)
 
 ---
