@@ -136,12 +136,12 @@ class HistoryTracker:
                 title = getattr(item, "title", "")
                 platform = getattr(item, "platform", "")
                 apply_url = getattr(item, "apply_url", "")
-                deadline = getattr(item, "deadline", "")
+                deadline = getattr(item, "registration_deadline", getattr(item, "deadline", ""))
             elif isinstance(item, dict):
                 title = item.get("title", "")
                 platform = item.get("platform", "")
                 apply_url = item.get("apply_url", "")
-                deadline = item.get("deadline", "")
+                deadline = item.get("registration_deadline", item.get("deadline", ""))
             else:
                 continue
 

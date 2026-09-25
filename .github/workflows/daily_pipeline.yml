@@ -11,6 +11,8 @@ jobs:
     name: Execute Autonomous Hackathon Ingestion & Dispatch
     runs-on: ubuntu-latest
     timeout-minutes: 60
+    permissions:
+      contents: write
 
     steps:
       - name: Check out repository
@@ -40,6 +42,14 @@ jobs:
           CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
           python api/trigger.py
+
+      - name: Commit & Push Updated History
+        if: always()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/sent_history.json
+          git diff --staged --quiet || (git commit -m "chore(data): sync persistent hackathon history [skip ci]" && git push origin main)
 
       - name: Archive Daily Excel Artifact
         if: always()
