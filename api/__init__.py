@@ -1,0 +1,1 @@
+"""TechyUpdates Hackathons API Package."""

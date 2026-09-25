@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/trigger.py",
+      "use": "@vercel/python",
+      "config": { "maxDuration": 300 }
+    },
+    {
+      "src": "api/health.py",
+      "use": "@vercel/python",
+      "config": { "maxDuration": 15 }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/health",
+      "dest": "api/health.py"
+    },
+    {
+      "src": "/api/trigger",
+      "dest": "api/trigger.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "api/trigger.py"
+    }
+  ]
+}

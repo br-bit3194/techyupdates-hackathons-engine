@@ -1,0 +1,1 @@
+"""TechyUpdates Hackathons Test Package."""
