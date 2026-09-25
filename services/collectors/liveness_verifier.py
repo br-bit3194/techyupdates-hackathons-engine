@@ -132,7 +132,7 @@ async def verify_single_hackathon_liveness(client: httpx.AsyncClient, hackathon:
     platform = hackathon.get("platform", "")
 
     # Fast-path: Verified official partner endpoints bypass redundant GET requests
-    if any(k in platform.lower() for k in ["devpost", "unstop", "devfolio", "mlh", "major league hacking", "kaggle", "dorahacks"]):
+    if any(k in platform.lower() for k in ["devpost", "unstop", "devfolio", "mlh", "major league hacking", "kaggle", "dorahacks", "hack2skill"]):
         return True
 
     if not url or not url.startswith("http"):

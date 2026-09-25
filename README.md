@@ -13,7 +13,7 @@ Enriched using **Google Gemini 3 AI**, the engine compiles an enterprise-grade 4
 
 ## 🌟 Key Features
 
-* **Multi-Source Asynchronous Ingestion:** High-speed parallel scraping across Devpost, Unstop, Devfolio, MLH, Kaggle, DoraHacks, and HackerEarth.
+* **Multi-Source Asynchronous Ingestion:** High-speed parallel scraping across Devpost, Unstop, Hack2skill, Devfolio, MLH, Kaggle, DoraHacks, and HackerEarth.
 * **Strict Registration Deadline Verification:** Only open, active opportunities with future deadlines are retained. Expired and past challenges are purged automatically.
 * **AI Extraction & Domain Categorization:** Powered by Google Gemini (`gemini-3.5-flash-lite`, `gemini-3.5-flash`, `gemini-3.8-flash`) with instant heuristic rule failovers.
 * **Anti-Scam & Quality Filter:** MD5 deduplication and blacklist heuristics purge fake paid contests, spam MLM tokens, and dubious fee-charging certificate schemes.

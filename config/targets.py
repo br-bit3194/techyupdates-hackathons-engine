@@ -41,6 +41,11 @@ HACKEREARTH_CONFIG = {
     "api_url": "https://www.hackerearth.com/challenges/api/upcoming_and_ongoing_challenges/",
 }
 
+HACK2SKILL_CONFIG = {
+    "base_url": "https://hack2skill.com/hackathons",
+    "api_url": "https://api.hack2skill.com/api/v1/hackathons",
+}
+
 # Positive keywords for hackathon & competition validation
 TECH_HACKATHON_KEYWORDS: Set[str] = {
     "hackathon",

@@ -24,6 +24,7 @@ from services.collectors.devpost import fetch_devpost_hackathons
 from services.collectors.unstop import fetch_unstop_hackathons
 from services.collectors.mlh_devfolio import fetch_mlh_devfolio_hackathons
 from services.collectors.kaggle_dorahacks import fetch_kaggle_dorahacks_challenges
+from services.collectors.hack2skill import fetch_hack2skill_hackathons
 from services.collectors.liveness_verifier import (
     generate_dedup_hash,
     is_scam_or_blacklisted,
@@ -52,24 +53,26 @@ async def run_pipeline() -> Dict[str, Any]:
     # PHASE 1: Concurrent Ingestion
     # -------------------------------------------------------------------------
     t_phase1 = datetime.now(timezone.utc)
-    logger.info("[PHASE 1/5: INGESTION] Launching 4 asynchronous platform collectors...")
+    logger.info("[PHASE 1/5: INGESTION] Launching 5 asynchronous platform collectors...")
 
     async with httpx.AsyncClient(timeout=15.0, follow_redirects=True) as client:
         devpost_task = asyncio.create_task(fetch_devpost_hackathons(client))
         unstop_task = asyncio.create_task(fetch_unstop_hackathons(client))
         mlh_devfolio_task = asyncio.create_task(fetch_mlh_devfolio_hackathons(client))
         kaggle_dorahacks_task = asyncio.create_task(fetch_kaggle_dorahacks_challenges(client))
+        hack2skill_task = asyncio.create_task(fetch_hack2skill_hackathons(client))
 
         results = await asyncio.gather(
             devpost_task,
             unstop_task,
             mlh_devfolio_task,
             kaggle_dorahacks_task,
+            hack2skill_task,
             return_exceptions=True,
         )
 
     all_raw: List[Dict[str, Any]] = []
-    collector_names = ["Devpost", "Unstop", "MLH & Devfolio", "Kaggle & DoraHacks"]
+    collector_names = ["Devpost", "Unstop", "MLH & Devfolio", "Kaggle & DoraHacks", "Hack2skill"]
     for name, res in zip(collector_names, results):
         if isinstance(res, list):
             logger.info("  ✓ %s Collector: %d opportunities ingested", name, len(res))

@@ -252,3 +252,19 @@ def test_liveness_closure_markers():
 
     has_closed_in_open = any(m in html_open.lower() for m in CLOSURE_MARKERS)
     assert has_closed_in_open is False
+
+
+@pytest.mark.asyncio
+async def test_hack2skill_collector():
+    """Verify Hack2skill collector integration."""
+    from services.collectors.hack2skill import fetch_hack2skill_hackathons
+    import httpx
+    async with httpx.AsyncClient() as client:
+        results = await fetch_hack2skill_hackathons(client)
+        assert isinstance(results, list)
+        assert len(results) > 0
+        first = results[0]
+        assert "Hack2skill" in first["platform"]
+        assert first["title"]
+        assert first["apply_url"].startswith("http")
+
