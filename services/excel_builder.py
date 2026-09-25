@@ -1,4 +1,4 @@
-"""In-memory Excel workbook generator using openpyxl with 4 styled tabs and clickable links."""
+"""In-memory Excel workbook generator using openpyxl with 4 styled tabs, 12 formatted columns, and direct clickable links."""
 
 import io
 import re
@@ -43,6 +43,7 @@ HEADERS = [
     "Mode",
     "Location",
     "Prize Pool / Rewards",
+    "Date Posted",
     "Registration Deadline",
     "Event Dates",
     "Eligibility",
@@ -50,7 +51,7 @@ HEADERS = [
     "Direct Apply Link",
 ]
 
-COLUMN_WIDTHS = [22, 32, 26, 16, 22, 22, 20, 18, 22, 46, 22]
+COLUMN_WIDTHS = [22, 32, 26, 14, 20, 22, 16, 20, 18, 22, 46, 22]
 
 
 def _extract_numeric_prize(prize_str: str) -> float:
@@ -62,7 +63,7 @@ def _extract_numeric_prize(prize_str: str) -> float:
         return 0.0
     val = float(numbers[-1])
     if "₹" in prize_str or "rs" in prize_str.lower() or "inr" in prize_str.lower() or "lakh" in prize_str.lower() or "lpa" in prize_str.lower():
-        return val * 1200  # rough USD conversion heuristic for normalized sorting
+        return val * 1200
     if "k" in prize_str.lower():
         return val * 1000
     if "$" in prize_str:
@@ -76,7 +77,7 @@ def _sort_records(records: List[HackathonRecord]) -> List[HackathonRecord]:
 
 
 def build_excel_workbook(hackathons: List[HackathonRecord]) -> io.BytesIO:
-    """Generate a 4-tab styled Excel workbook in memory."""
+    """Generate a 4-tab styled Excel workbook in memory with 12 structured columns."""
     wb = openpyxl.Workbook()
     default_sheet = wb.active
     if default_sheet is not None:
@@ -138,6 +139,7 @@ def build_excel_workbook(hackathons: List[HackathonRecord]) -> io.BytesIO:
                 (h.mode, align_center, body_font),
                 (h.location, align_center, body_font),
                 (h.prize_pool, align_center, body_font),
+                (h.posted_date, align_center, body_font),
                 (h.registration_deadline, align_center, body_font),
                 (h.event_dates, align_center, body_font),
                 (h.eligibility, align_center, body_font),
@@ -151,8 +153,8 @@ def build_excel_workbook(hackathons: List[HackathonRecord]) -> io.BytesIO:
                 cell.alignment = alignment
                 cell.border = thin_border
 
-            # Column 11: Clickable HYPERLINK formula
-            link_cell = ws.cell(row=r_idx, column=11)
+            # Column 12: Clickable HYPERLINK formula
+            link_cell = ws.cell(row=r_idx, column=12)
             clean_url = (h.apply_url or "").strip()
             if clean_url.startswith("http"):
                 escaped_url = clean_url.replace('"', '""')
@@ -168,7 +170,7 @@ def build_excel_workbook(hackathons: List[HackathonRecord]) -> io.BytesIO:
 
         # Auto-filter over all populated rows
         last_row = max(len(sorted_records) + 1, 2)
-        ws.auto_filter.ref = f"A1:K{last_row}"
+        ws.auto_filter.ref = f"A1:L{last_row}"
 
     output_stream = io.BytesIO()
     wb.save(output_stream)

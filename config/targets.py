@@ -42,8 +42,8 @@ HACKEREARTH_CONFIG = {
 }
 
 HACK2SKILL_CONFIG = {
-    "base_url": "https://hack2skill.com/hackathons",
-    "api_url": "https://api.hack2skill.com/api/v1/hackathons",
+    "base_url": "https://hack2skill.com/hackathons-listing",
+    "api_url": "https://hack2skill.com/api/v1/innovator/public/event/list?page=1&records=50",
 }
 
 # Positive keywords for hackathon & competition validation

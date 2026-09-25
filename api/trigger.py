@@ -25,9 +25,12 @@ from services.collectors.unstop import fetch_unstop_hackathons
 from services.collectors.mlh_devfolio import fetch_mlh_devfolio_hackathons
 from services.collectors.kaggle_dorahacks import fetch_kaggle_dorahacks_challenges
 from services.collectors.hack2skill import fetch_hack2skill_hackathons
+from services.collectors.hackerearth_superteam import fetch_hackerearth_superteam_hackathons
+from services.collectors.company_flagships import fetch_company_flagship_hackathons
 from services.collectors.liveness_verifier import (
     generate_dedup_hash,
     is_scam_or_blacklisted,
+    is_valid_apply_url,
     verify_hackathons_liveness,
 )
 from services.ai_extractor import extract_and_tier_hackathons, HackathonRecord
@@ -50,30 +53,28 @@ async def run_pipeline() -> Dict[str, Any]:
     logger.info("=" * 80)
 
     # -------------------------------------------------------------------------
-    # PHASE 1: Concurrent Ingestion
+    # PHASE 1: Asynchronous Platform Ingestion
     # -------------------------------------------------------------------------
     t_phase1 = datetime.now(timezone.utc)
-    logger.info("[PHASE 1/5: INGESTION] Launching 5 asynchronous platform collectors...")
+    logger.info("[PHASE 1/5: INGESTION] Launching 7 asynchronous platform collectors...")
 
     async with httpx.AsyncClient(timeout=15.0, follow_redirects=True) as client:
-        devpost_task = asyncio.create_task(fetch_devpost_hackathons(client))
-        unstop_task = asyncio.create_task(fetch_unstop_hackathons(client))
-        mlh_devfolio_task = asyncio.create_task(fetch_mlh_devfolio_hackathons(client))
-        kaggle_dorahacks_task = asyncio.create_task(fetch_kaggle_dorahacks_challenges(client))
-        hack2skill_task = asyncio.create_task(fetch_hack2skill_hackathons(client))
+        collector_tasks = [
+            ("Devpost", asyncio.create_task(fetch_devpost_hackathons(client))),
+            ("Unstop", asyncio.create_task(fetch_unstop_hackathons(client))),
+            ("MLH & Devfolio", asyncio.create_task(fetch_mlh_devfolio_hackathons(client))),
+            ("Kaggle & DoraHacks", asyncio.create_task(fetch_kaggle_dorahacks_challenges(client))),
+            ("Hack2skill", asyncio.create_task(fetch_hack2skill_hackathons(client))),
+            ("HackerEarth & Superteam", asyncio.create_task(fetch_hackerearth_superteam_hackathons(client))),
+            ("Company Flagships", asyncio.create_task(fetch_company_flagship_hackathons(client))),
+        ]
 
-        results = await asyncio.gather(
-            devpost_task,
-            unstop_task,
-            mlh_devfolio_task,
-            kaggle_dorahacks_task,
-            hack2skill_task,
-            return_exceptions=True,
-        )
+        task_futures = [t[1] for t in collector_tasks]
+        task_names = [t[0] for t in collector_tasks]
+        results = await asyncio.gather(*task_futures, return_exceptions=True)
 
     all_raw: List[Dict[str, Any]] = []
-    collector_names = ["Devpost", "Unstop", "MLH & Devfolio", "Kaggle & DoraHacks", "Hack2skill"]
-    for name, res in zip(collector_names, results):
+    for name, res in zip(task_names, results):
         if isinstance(res, list):
             logger.info("  ✓ %s Collector: %d opportunities ingested", name, len(res))
             all_raw.extend(res)
@@ -85,10 +86,10 @@ async def run_pipeline() -> Dict[str, Any]:
     logger.info("-" * 80)
 
     # -------------------------------------------------------------------------
-    # PHASE 2: Deduplication & Quality / Scam Filter
+    # PHASE 2: Deduplication, URL Integrity & Scam Filtering
     # -------------------------------------------------------------------------
     t_phase2 = datetime.now(timezone.utc)
-    logger.info("[PHASE 2/5: DEDUP & FILTER] Filtering spam and deduplicating records...")
+    logger.info("[PHASE 2/5: DEDUP & FILTER] Filtering spam, broken URLs, and deduplicating records...")
 
     seen_hashes = set()
     filtered_events: List[Dict[str, Any]] = []
@@ -96,6 +97,11 @@ async def run_pipeline() -> Dict[str, Any]:
     for item in all_raw:
         # Anti-scam filter
         if is_scam_or_blacklisted(item):
+            continue
+
+        # URL validity filter
+        apply_url = item.get("apply_url", "")
+        if not is_valid_apply_url(apply_url):
             continue
 
         platform = item.get("platform", "Unknown")
@@ -131,7 +137,7 @@ async def run_pipeline() -> Dict[str, Any]:
     t_phase4 = datetime.now(timezone.utc)
     logger.info("[PHASE 4/5: AI CATEGORIZATION] Processing through Gemini 3 AI cascade...")
 
-    enriched_records: List[HackathonRecord] = await extract_and_tier_hackathons(active_events, batch_size=50)
+    enriched_records: List[HackathonRecord] = await extract_and_tier_hackathons(active_events, batch_size=30)
 
     category_counts = {
         "AI & GenAI Hackathons": 0,
@@ -165,29 +171,21 @@ async def run_pipeline() -> Dict[str, Any]:
     logger.info("  📡 Dispatching to TechyUpdates Telegram community channel...")
     dispatched = await dispatch_telegram_document(excel_buffer, enriched_records)
 
-    local_file_path = None
+    # Always save local Excel file for inspection & archival
+    date_str = datetime.now(timezone.utc).strftime("%Y%m%d")
+    local_filename = f"TechyUpdates_Hackathons_{date_str}.xlsx"
+    local_file_path = os.path.join(PROJECT_ROOT, local_filename)
+    try:
+        excel_buffer.seek(0)
+        with open(local_file_path, "wb") as f:
+            f.write(excel_buffer.getvalue())
+        logger.info("  💾 Local Excel workbook saved: %s (%.2f KB)", local_file_path, buffer_size / 1024)
+    except Exception as exc:
+        logger.error("  ❌ Could not write local Excel backup: %s", exc)
+        local_file_path = None
+
     if dispatched:
-        logger.info("  ✓ Telegram broadcast confirmed successful! Cleaning local temp files...")
-        for fname in os.listdir(PROJECT_ROOT):
-            if fname.endswith(".xlsx") and "Hackathons" in fname:
-                try:
-                    fpath = os.path.join(PROJECT_ROOT, fname)
-                    os.remove(fpath)
-                    logger.info("    - Removed local temp file: %s", fname)
-                except Exception as exc:
-                    logger.debug("    - Could not remove %s: %s", fname, exc)
-    else:
-        date_str = datetime.now(timezone.utc).strftime("%Y%m%d")
-        local_filename = f"TechyUpdates_Hackathons_{date_str}.xlsx"
-        local_file_path = os.path.join(PROJECT_ROOT, local_filename)
-        try:
-            excel_buffer.seek(0)
-            with open(local_file_path, "wb") as f:
-                f.write(excel_buffer.getvalue())
-            logger.info("  💾 Local Excel backup saved: %s", local_file_path)
-        except Exception as exc:
-            logger.error("  ❌ Could not write local Excel backup: %s", exc, exc_info=True)
-            local_file_path = None
+        logger.info("  ✓ Telegram broadcast confirmed successful!")
 
     elapsed_p5 = (datetime.now(timezone.utc) - t_phase5).total_seconds()
     total_elapsed = (datetime.now(timezone.utc) - start_time).total_seconds()
@@ -314,7 +312,6 @@ class handler(BaseHTTPRequestHandler):
 
 
 if __name__ == "__main__":
-    # Direct CLI execution
     logger.info("Executing TechyUpdates Hackathons Pipeline directly via CLI...")
     result = asyncio.run(run_pipeline())
     print("\n--- Pipeline Result ---")

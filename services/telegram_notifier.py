@@ -12,7 +12,7 @@ logger = logging.getLogger("techyupdates.telegram_notifier")
 
 
 def generate_telegram_caption(records: List[HackathonRecord]) -> str:
-    """Format humanized community broadcast message for Telegram."""
+    """Format humanized community broadcast message for Telegram (guaranteed < 1024 chars)."""
     now_utc = datetime.now(timezone.utc)
     date_formatted = now_utc.strftime("%d %b %Y")
 
@@ -29,7 +29,7 @@ def generate_telegram_caption(records: List[HackathonRecord]) -> str:
 
     total_count = len(records)
 
-    # Curate high-signal highlights across each category
+    # Curate crisp 1-line highlights across each category
     highlights: List[str] = []
     for cat_name, icon in [
         ("AI & GenAI Hackathons", "🤖"),
@@ -40,25 +40,33 @@ def generate_telegram_caption(records: List[HackathonRecord]) -> str:
         matching = [r for r in records if r.category == cat_name]
         if matching:
             top = matching[0]
-            prize_str = f" • {top.prize_pool}" if top.prize_pool and "unspecified" not in top.prize_pool.lower() else ""
-            highlights.append(f"• {icon} *{top.platform}* — {top.title} ({top.location}{prize_str})")
+            # Compact platform & title
+            clean_title = top.title[:35].strip() + ("..." if len(top.title) > 35 else "")
+            clean_platform = top.platform.split("(")[0].strip()
+            prize_str = f" • {top.prize_pool[:18]}" if top.prize_pool and "unspecified" not in top.prize_pool.lower() else ""
+            highlights.append(f"• {icon} *{clean_platform}* — {clean_title}{prize_str}")
 
-    featured_block = "\n".join(highlights[:4]) if highlights else "• 🚀 Explore top global hackathons & challenges in the attached file!"
+    featured_block = "\n".join(highlights[:4]) if highlights else "• 🚀 Explore top active hackathons & challenges in the attached file!"
 
     caption = (
-        f"🚀 *Hey Tech Fam! Here is your daily TechyUpdates Hackathons & Competitions Radar!* 🏆\n\n"
+        f"🚀 *Hey Tech Fam! Here is your daily TechyUpdates Hackathons Radar!* 🏆\n\n"
         f"📅 *Date:* {date_formatted}\n"
-        f"✨ We scoured and verified *{total_count} active hackathons, coding contests & innovation challenges* with massive prize pools and fast-track hiring!\n\n"
+        f"✨ We scoured and verified *{total_count} active hackathons & coding challenges* with open registrations!\n\n"
         f"🎯 *What's inside today's drop:*\n"
         f"  🤖 *AI & GenAI Hackathons:* {category_counts['AI & GenAI Hackathons']}\n"
         f"  🌐 *Web3 & Open Source Grants:* {category_counts['Web3 & Open Source Hackathons']}\n"
         f"  🎓 *Student & University Hackathons:* {category_counts['Student & University Hackathons']}\n"
         f"  🏆 *Open Innovation & Hiring Sprints:* {category_counts['Open Innovation & Hiring Challenges']}\n\n"
-        f"🔥 *Today's Top Featured Challenges:*\n"
+        f"🔥 *Top Featured Challenges:*\n"
         f"{featured_block}\n\n"
         f"📂 *Attached Excel file:* 4 categorized tabs with 1-click registration links & deadline alerts.\n"
         f"💡 *Pro-tip:* Form your squad early & register before deadlines close! Best of luck building! 🌟"
     )
+
+    # Hard safety guard for Telegram 1024-char caption limit
+    if len(caption) > 1000:
+        caption = caption[:990].rstrip() + "\n...\n📂 *Attached Excel:* 4 categorized tabs."
+
     return caption
 
 
