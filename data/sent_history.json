@@ -466,5 +466,41 @@
     "norm_url": "https://aws.amazon.com/deepracer/league",
     "deadline": "Monthly Season Sprints",
     "first_seen": "2026-09-26T07:56:57.226501+00:00"
+  },
+  "devpost:opencv ai competition 2026 powered by aws": {
+    "title": "OpenCV AI Competition 2026, powered by AWS",
+    "norm_title": "opencv ai competition 2026 powered by aws",
+    "platform": "Devpost",
+    "apply_url": "https://opencv26.devpost.com/",
+    "norm_url": "https://opencv26.devpost.com",
+    "deadline": "30 days left",
+    "first_seen": "2026-09-27T08:27:32.552585+00:00"
+  },
+  "devpost:build with ai basics": {
+    "title": "Build With AI: Basics",
+    "norm_title": "build with ai basics",
+    "platform": "Devpost",
+    "apply_url": "https://learn-ai-basics.devpost.com/",
+    "norm_url": "https://learn-ai-basics.devpost.com",
+    "deadline": "30 days left",
+    "first_seen": "2026-09-27T08:27:32.552585+00:00"
+  },
+  "unstop (indiastox):indiastox nifty midcap 100 predictions challenge": {
+    "title": "IndiaStox Nifty Midcap 100 Predictions Challenge",
+    "norm_title": "indiastox nifty midcap 100 predictions challenge",
+    "platform": "Unstop (Indiastox)",
+    "apply_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1762034",
+    "norm_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1762034",
+    "deadline": "03 Oct 2026",
+    "first_seen": "2026-09-27T08:27:32.552585+00:00"
+  },
+  "unstop (wecodecoders):codeaxis hackathon": {
+    "title": "CodeAxis Hackathon",
+    "norm_title": "codeaxis hackathon",
+    "platform": "Unstop (WeCodeCoders)",
+    "apply_url": "https://unstop.com/hackathons/codeaxis-hackathon-wecodecoders-1758538",
+    "norm_url": "https://unstop.com/hackathons/codeaxis-hackathon-wecodecoders-1758538",
+    "deadline": "23 Oct 2026",
+    "first_seen": "2026-09-27T08:27:32.552585+00:00"
   }
 }
