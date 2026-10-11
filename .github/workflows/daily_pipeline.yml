@@ -38,7 +38,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_COMMUNITY_CHANNEL_ID: ${{ secrets.TELEGRAM_COMMUNITY_CHANNEL_ID }}
-          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.5-flash-lite' }}
+          GEMINI_MODEL: ${{ secrets.GEMINI_MODEL || 'gemini-3.6-flash' }}
           CRON_SECRET: ${{ secrets.CRON_SECRET }}
         run: |
           python api/trigger.py

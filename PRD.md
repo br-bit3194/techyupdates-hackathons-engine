@@ -47,8 +47,8 @@ flowchart TD
     
     subgraph Phase 4 [Phase 4: Gemini 3 Flash Cascade]
         E --> E1[Batch Size: 50 Records]
-        E --> E2[Model 1: gemini-3.5-flash-lite]
-        E --> E3[Model 2: gemini-3.5-flash]
+        E --> E2[Model 1: gemini-3.6-flash]
+        E --> E3[Model 2: gemini-3.5-flash-lite]
         E --> E4[Model 3: gemini-3.8-flash]
         E --> E5[Failover: Local Rule-Based Classifier]
     end
@@ -111,7 +111,7 @@ Raw hackathons undergo filtering layers before reaching the AI model:
 Events are partitioned into batches of **50 items** and processed through Google Gemini:
 
 1. **Gemini 3 Production Model Hierarchy:**
-   $$\text{gemini-3.5-flash-lite} \longrightarrow \text{gemini-3.5-flash} \longrightarrow \text{gemini-3.8-flash}$$
+   $$\text{gemini-3.6-flash} \longrightarrow \text{gemini-3.5-flash-lite} \longrightarrow \text{gemini-3.8-flash}$$
 2. **Pacing & Rate Limiting:** 3.0s sleep delay between calls.
 3. **Failover:** Automatic fallback to `fallback_classify_hackathon` if AI quotas are exhausted.
 4. **Pydantic Data Contract (`HackathonRecord`):**
@@ -207,5 +207,5 @@ The generated `.xlsx` workbook is dispatched to Telegram with a humanized TechyU
 | `GEMINI_API_KEY` | **Yes** | Repository Secrets | Google AI Studio API key |
 | `TELEGRAM_BOT_TOKEN` | **Yes** | Repository Secrets | Telegram Bot API token from `@BotFather` |
 | `TELEGRAM_COMMUNITY_CHANNEL_ID` | **Yes** | Repository Secrets | Target channel username (e.g. `@techy_jobs_updates` or `@techy_hackathons_updates`) |
-| `GEMINI_MODEL` | Optional | Repository Secrets | Default: `gemini-3.5-flash-lite` |
+| `GEMINI_MODEL` | Optional | Repository Secrets | Default: `gemini-3.6-flash` |
 | `CRON_SECRET` | Optional | Repository Secrets | For Vercel HTTP authorization |

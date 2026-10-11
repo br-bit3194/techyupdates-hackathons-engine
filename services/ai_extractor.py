@@ -116,12 +116,12 @@ async def extract_and_tier_hackathons(raw_items: List[Dict[str, Any]], batch_siz
         logger.warning("[AI] GEMINI_API_KEY not found in environment. Using rule-based fallback for all items.")
         return [fallback_classify_hackathon(item) for item in raw_items]
 
-    # Model Cascade Order (prioritizing fast lite model first)
+    # Model Cascade Order (prioritizing stable production models)
     model_cascade = [
-        os.getenv("GEMINI_MODEL", "gemini-3.5-flash-lite"),
+        os.getenv("GEMINI_MODEL", "gemini-3.6-flash"),
+        "gemini-3.6-flash",
         "gemini-3.5-flash-lite",
         "gemini-2.5-flash",
-        "gemini-3.5-flash",
         "gemini-3.8-flash",
     ]
     seen = set()

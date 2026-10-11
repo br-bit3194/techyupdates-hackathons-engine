@@ -46,10 +46,15 @@ def test_anti_scam_filter():
 
 def test_registration_deadline_validation():
     """Verify registration deadline filtering for past, future, and active text."""
+    from datetime import datetime, timezone, timedelta
+
+    past_date_str = (datetime.now(timezone.utc) - timedelta(days=30)).strftime("%Y-%m-%d")
+    future_date_str = (datetime.now(timezone.utc) + timedelta(days=30)).strftime("%Y-%m-%d")
+
     # 1. Past dates should be filtered out
     past_event_1 = {
-        "title": "Old Hackathon 2026",
-        "registration_deadline": "2026-09-01",
+        "title": "Old Hackathon",
+        "registration_deadline": past_date_str,
         "description": "Past event",
     }
     past_event_2 = {
@@ -70,7 +75,7 @@ def test_registration_deadline_validation():
     # 2. Future and active dates should be kept
     future_event_1 = {
         "title": "Future AI Hackathon",
-        "registration_deadline": "2026-11-20",
+        "registration_deadline": future_date_str,
         "description": "Upcoming hackathon",
     }
     future_event_2 = {
@@ -91,10 +96,12 @@ def test_registration_deadline_validation():
 
 def test_past_24h_filter():
     """Verify strict filtering of past 24-48h posted dates."""
+    from datetime import datetime, timezone
     from services.collectors.liveness_verifier import is_recent_or_past_24h_posted
 
+    today_str = datetime.now(timezone.utc).strftime("%d %b %Y")
     recent_1 = {"title": "New Hackathon", "posted_date": "Past 24 Hours"}
-    recent_2 = {"title": "Today's Challenge", "posted_date": "24 Sep 2026"}
+    recent_2 = {"title": "Today's Challenge", "posted_date": today_str}
     recent_3 = {"title": "Season Launch", "posted_date": "Active 2026 Season"}
     old_event = {"title": "Old Hackathon", "posted_date": "2024-05-12"}
 
