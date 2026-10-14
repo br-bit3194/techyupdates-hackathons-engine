@@ -826,5 +826,41 @@
     "norm_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
     "deadline": "2026-10-31",
     "first_seen": "2026-10-13T09:38:36.386834+00:00"
+  },
+  "unstop (interactup):the decision room a realworld challenge simulation": {
+    "title": "THE DECISION ROOM: A Real-World Challenge Simulation",
+    "norm_title": "the decision room a realworld challenge simulation",
+    "platform": "Unstop (InteractUp)",
+    "apply_url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
+    "norm_url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
+    "deadline": "31 Oct 2026",
+    "first_seen": "2026-10-14T07:53:33.137632+00:00"
+  },
+  "unstop (kiet group of institutions):ideatex 40": {
+    "title": "Ideatex 4.0",
+    "norm_title": "ideatex 40",
+    "platform": "Unstop (KIET Group of Institutions)",
+    "apply_url": "https://unstop.com/competitions/ideatex-40-kiet-group-of-institutions-1770053",
+    "norm_url": "https://unstop.com/competitions/ideatex-40-kiet-group-of-institutions-1770053",
+    "deadline": "26 Oct 2026",
+    "first_seen": "2026-10-14T07:53:33.137632+00:00"
+  },
+  "unstop (hackhere):ooty hacks": {
+    "title": "Ooty Hacks",
+    "norm_title": "ooty hacks",
+    "platform": "Unstop (Hackhere)",
+    "apply_url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
+    "norm_url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-10-14T07:53:33.137632+00:00"
+  },
+  "superteam earn:panta x nectarfi trading competition bounty": {
+    "title": "Panta x NectarFi Trading Competition Bounty",
+    "norm_title": "panta x nectarfi trading competition bounty",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/panta-x-nectarfi-trading-competition-bounty",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/panta-x-nectarfi-trading-competition-bounty",
+    "deadline": "2026-11-12",
+    "first_seen": "2026-10-14T07:53:33.137632+00:00"
   }
 }
