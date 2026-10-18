@@ -979,5 +979,23 @@
     "norm_url": "https://earn.superteam.fun/listings/bounties/hackyeah-superteam-poland-track",
     "deadline": "30 Oct 2026",
     "first_seen": "2026-10-17T07:07:02.718583+00:00"
+  },
+  "unstop:catalyst solo ai hackathon": {
+    "title": "Catalyst - Solo AI Hackathon",
+    "norm_title": "catalyst solo ai hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
+    "norm_url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
+    "deadline": "15 Nov 2026",
+    "first_seen": "2026-10-18T07:21:28.377301+00:00"
+  },
+  "unstop:brandstruck 2026": {
+    "title": "Brandstruck 2026",
+    "norm_title": "brandstruck 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/competitions/brandstruck-2026-avenues-2026-sjmsom-1771616",
+    "norm_url": "https://unstop.com/competitions/brandstruck-2026-avenues-2026-sjmsom-1771616",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-10-18T07:21:28.377301+00:00"
   }
 }
