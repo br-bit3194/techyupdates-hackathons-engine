@@ -700,5 +700,14 @@
     "norm_url": "https://aws.amazon.com/deepracer/league",
     "deadline": "Monthly Season Sprints",
     "first_seen": "2026-10-26T08:00:51.591176+00:00"
+  },
+  "unstop (aeglysai):aegython 2026": {
+    "title": "Aegython 2026",
+    "norm_title": "aegython 2026",
+    "platform": "Unstop (AeglysAI)",
+    "apply_url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
+    "norm_url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
+    "deadline": "06 Nov 2026",
+    "first_seen": "2026-10-27T08:10:54.079445+00:00"
   }
 }
