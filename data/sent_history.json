@@ -1,40 +1,4 @@
 {
-  "devpost:opencv ai competition 2026 powered by aws": {
-    "title": "OpenCV AI Competition 2026, powered by AWS",
-    "norm_title": "opencv ai competition 2026 powered by aws",
-    "platform": "Devpost",
-    "apply_url": "https://opencv26.devpost.com/",
-    "norm_url": "https://opencv26.devpost.com",
-    "deadline": "30 days left",
-    "first_seen": "2026-09-27T08:27:32.552585+00:00"
-  },
-  "devpost:build with ai basics": {
-    "title": "Build With AI: Basics",
-    "norm_title": "build with ai basics",
-    "platform": "Devpost",
-    "apply_url": "https://learn-ai-basics.devpost.com/",
-    "norm_url": "https://learn-ai-basics.devpost.com",
-    "deadline": "30 days left",
-    "first_seen": "2026-09-27T08:27:32.552585+00:00"
-  },
-  "unstop (indiastox):indiastox nifty midcap 100 predictions challenge": {
-    "title": "IndiaStox Nifty Midcap 100 Predictions Challenge",
-    "norm_title": "indiastox nifty midcap 100 predictions challenge",
-    "platform": "Unstop (Indiastox)",
-    "apply_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1762034",
-    "norm_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1762034",
-    "deadline": "03 Oct 2026",
-    "first_seen": "2026-09-27T08:27:32.552585+00:00"
-  },
-  "unstop (wecodecoders):codeaxis hackathon": {
-    "title": "CodeAxis Hackathon",
-    "norm_title": "codeaxis hackathon",
-    "platform": "Unstop (WeCodeCoders)",
-    "apply_url": "https://unstop.com/hackathons/codeaxis-hackathon-wecodecoders-1758538",
-    "norm_url": "https://unstop.com/hackathons/codeaxis-hackathon-wecodecoders-1758538",
-    "deadline": "23 Oct 2026",
-    "first_seen": "2026-09-27T08:27:32.552585+00:00"
-  },
   "unstop (jindal stainless limited):stainless spark the rising curve": {
     "title": "Stainless Spark - The Rising Curve",
     "norm_title": "stainless spark the rising curve",
@@ -709,5 +673,59 @@
     "norm_url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
     "deadline": "06 Nov 2026",
     "first_seen": "2026-10-27T08:10:54.079445+00:00"
+  },
+  "unstop (tekion):tekqubit women of impact 2026": {
+    "title": "Tek-Qubit: Women of Impact 2026",
+    "norm_title": "tekqubit women of impact 2026",
+    "platform": "Unstop (Tekion)",
+    "apply_url": "https://unstop.com/quiz/crp-tek-qubit-women-of-impact-2026-tekion-1773480",
+    "norm_url": "https://unstop.com/quiz/crp-tek-qubit-women-of-impact-2026-tekion-1773480",
+    "deadline": "18 Dec 2026",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
+  },
+  "unstop (biorad medisys private limited):srujana ai 2026 hackathon": {
+    "title": "Srujana AI 2026 Hackathon",
+    "norm_title": "srujana ai 2026 hackathon",
+    "platform": "Unstop (Biorad Medisys Private Limited)",
+    "apply_url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
+    "norm_url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-biorad-medisys-private-limited-1778599",
+    "deadline": "29 Oct 2026",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
+  },
+  "unstop (collins aerospace):digital leadership development program": {
+    "title": "Digital Leadership Development Program",
+    "norm_title": "digital leadership development program",
+    "platform": "Unstop (Collins Aerospace)",
+    "apply_url": "https://unstop.com/competitions/crp-digital-leadership-development-program-collins-aerospace-1772644",
+    "norm_url": "https://unstop.com/competitions/crp-digital-leadership-development-program-collins-aerospace-1772644",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
+  },
+  "unstop (indiastox):indiastox nifty midcap 100 predictions challenge": {
+    "title": "IndiaStox Nifty Midcap 100 Predictions Challenge",
+    "norm_title": "indiastox nifty midcap 100 predictions challenge",
+    "platform": "Unstop (Indiastox)",
+    "apply_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1775302",
+    "norm_url": "https://unstop.com/competitions/indiastox-nifty-midcap-100-predictions-challenge-indiastox-1775302",
+    "deadline": "31 Oct 2026",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
+  },
+  "superteam earn:create content about kriptok 200 usdc creator challenge": {
+    "title": "Create Content About KriptoK · 200 USDC Creator Challenge",
+    "norm_title": "create content about kriptok 200 usdc creator challenge",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/kriptok-creator-challenge-01",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/kriptok-creator-challenge-01",
+    "deadline": "2026-11-18",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
+  },
+  "superteam earn:write an original science fiction novel on sempai hq": {
+    "title": "Write an original science fiction novel on Sempai HQ.",
+    "norm_title": "write an original science fiction novel on sempai hq",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/write-an-original-science-fiction-novel-on-sempai-hq",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/write-an-original-science-fiction-novel-on-sempai-hq",
+    "deadline": "2026-12-04",
+    "first_seen": "2026-10-28T08:51:18.324190+00:00"
   }
 }
