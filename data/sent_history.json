@@ -862,5 +862,113 @@
     "norm_url": "https://unstop.com/quiz/quantathon-iit-madras-1783097",
     "deadline": "02 Jan 2027",
     "first_seen": "2026-10-29T08:45:21.098860+00:00"
+  },
+  "unstop:cmr hackfest 40": {
+    "title": "CMR HACKFEST 4.0",
+    "norm_title": "cmr hackfest 40",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
+    "norm_url": "https://unstop.com/hackathons/cmr-hackfest-40-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1782514",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:health hackathon 30": {
+    "title": "Health Hackathon 3.0",
+    "norm_title": "health hackathon 30",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631",
+    "norm_url": "https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:cobotex 2026 intercollege hackathon": {
+    "title": "COBOT-EX 2026 | Inter-College Hackathon",
+    "norm_title": "cobotex 2026 intercollege hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202",
+    "norm_url": "https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202",
+    "deadline": "07 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:algonex 10": {
+    "title": "Algonex 1.0",
+    "norm_title": "algonex 10",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/algonex-10-maya-devi-university-1781078",
+    "norm_url": "https://unstop.com/hackathons/algonex-10-maya-devi-university-1781078",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:forge 26 indias biggest gen ai buildathon": {
+    "title": "Forge '26 – India's Biggest Gen AI Buildathon",
+    "norm_title": "forge 26 indias biggest gen ai buildathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/forge-26-indias-biggest-gen-ai-buildathon-nxtwave-launchpad-1783707",
+    "norm_url": "https://unstop.com/hackathons/forge-26-indias-biggest-gen-ai-buildathon-nxtwave-launchpad-1783707",
+    "deadline": "01 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:codezen india 2026 national hackathon": {
+    "title": "CodeZen India 2026 - National Hackathon",
+    "norm_title": "codezen india 2026 national hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
+    "norm_url": "https://unstop.com/hackathons/codezen-india-2026-national-hackathon-wecodecoders-1783835",
+    "deadline": "26 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:one who codes 2026 a portfolio challenge": {
+    "title": "One Who Codes 2026 - A Portfolio Challenge",
+    "norm_title": "one who codes 2026 a portfolio challenge",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+    "norm_url": "https://unstop.com/hackathons/one-who-codes-2026-a-portfolio-challenge-acadable-1784554",
+    "deadline": "15 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:codenova india 2026 national hackathon": {
+    "title": "CodeNova India 2026 - National Hackathon",
+    "norm_title": "codenova india 2026 national hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
+    "norm_url": "https://unstop.com/hackathons/codenova-india-2026-national-hackathon-wecodecoders-1783775",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:deva re deva a quiz on indian mythology": {
+    "title": "Deva re Deva | A Quiz on Indian Mythology",
+    "norm_title": "deva re deva a quiz on indian mythology",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/deva-re-deva-a-quiz-on-indian-mythology-quizarc-1780976",
+    "norm_url": "https://unstop.com/quiz/deva-re-deva-a-quiz-on-indian-mythology-quizarc-1780976",
+    "deadline": "29 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:godstockss website upgrade challenge": {
+    "title": "Godstockss Website Upgrade Challenge",
+    "norm_title": "godstockss website upgrade challenge",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/godstockss-website-upgrade-challenge-godstockss-1784540",
+    "norm_url": "https://unstop.com/quiz/godstockss-website-upgrade-challenge-godstockss-1784540",
+    "deadline": "29 Nov 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:compensation benefits and total rewards": {
+    "title": "Compensation, Benefits, and Total Rewards",
+    "norm_title": "compensation benefits and total rewards",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/compensation-benefits-and-total-rewards-iim-rohtak-1784313",
+    "norm_url": "https://unstop.com/quiz/compensation-benefits-and-total-rewards-iim-rohtak-1784313",
+    "deadline": "31 Oct 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
+  },
+  "unstop:embarko student challenge": {
+    "title": "Embarko Student Challenge",
+    "norm_title": "embarko student challenge",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/competitions/embarko-student-challenge-walkover-web-solution-1783717",
+    "norm_url": "https://unstop.com/competitions/embarko-student-challenge-walkover-web-solution-1783717",
+    "deadline": "01 Dec 2026",
+    "first_seen": "2026-10-30T08:51:44.361892+00:00"
   }
 }
