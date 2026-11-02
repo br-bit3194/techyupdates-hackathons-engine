@@ -1186,5 +1186,41 @@
     "norm_url": "https://unstop.com/quiz/shaastra-inturn-2027-indian-institute-of-technology-iit-chennai-1774878",
     "deadline": "30 Dec 2026",
     "first_seen": "2026-11-01T09:31:05.540815+00:00"
+  },
+  "unstop (xavier school of management (xlri)):project last mile analytics case challenge": {
+    "title": "Project Last Mile: Analytics Case Challenge",
+    "norm_title": "project last mile analytics case challenge",
+    "platform": "Unstop (Xavier School of Management (XLRI))",
+    "apply_url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+    "norm_url": "https://unstop.com/hackathons/project-lastmile-analytics-case-challenge-xavier-school-of-management-xlri-1789982",
+    "deadline": "16 Nov 2026",
+    "first_seen": "2026-11-02T09:46:13.495189+00:00"
+  },
+  "unstop (indian institute of technology (iit), madras):ctf capture the flag": {
+    "title": "CTF - Capture The Flag",
+    "norm_title": "ctf capture the flag",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Madras)",
+    "apply_url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+    "norm_url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+    "deadline": "05 Jan 2027",
+    "first_seen": "2026-11-02T09:46:13.495189+00:00"
+  },
+  "unstop (indian institute of technology (iit), madras):shaastra biz quiz": {
+    "title": "Shaastra Biz Quiz",
+    "norm_title": "shaastra biz quiz",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Madras)",
+    "apply_url": "https://unstop.com/quiz/shaastra-biz-quiz-iit-madras-1790016",
+    "norm_url": "https://unstop.com/quiz/shaastra-biz-quiz-iit-madras-1790016",
+    "deadline": "06 Jan 2027",
+    "first_seen": "2026-11-02T09:46:13.495189+00:00"
+  },
+  "unstop (indian institute of management (iim), rohtak):finsight sharpen your financial insight 6": {
+    "title": "FinSight: Sharpen Your Financial Insight - 6",
+    "norm_title": "finsight sharpen your financial insight 6",
+    "platform": "Unstop (Indian Institute of Management (IIM), Rohtak)",
+    "apply_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-6-iim-rohtak-1790133",
+    "norm_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-6-iim-rohtak-1790133",
+    "deadline": "04 Nov 2026",
+    "first_seen": "2026-11-02T09:46:13.495189+00:00"
   }
 }
