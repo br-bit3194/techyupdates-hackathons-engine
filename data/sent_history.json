@@ -1636,5 +1636,104 @@
     "norm_url": "https://unstop.com/quiz/tech-quiz-2026-round-1-inspire-leap-private-limited-1774228",
     "deadline": "07 Nov 2026",
     "first_seen": "2026-11-05T09:45:58.918737+00:00"
+  },
+  "unstop:technothon": {
+    "title": "Technothon",
+    "norm_title": "technothon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/technothon-national-institute-of-technology-nit-agartala-1797032",
+    "norm_url": "https://unstop.com/hackathons/technothon-national-institute-of-technology-nit-agartala-1797032",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:remote robotics hackathon": {
+    "title": "Remote Robotics Hackathon",
+    "norm_title": "remote robotics hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
+    "norm_url": "https://unstop.com/hackathons/remote-robotics-hackathon-pes-university-pesu-bengaluru-1795134",
+    "deadline": "18 Nov 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:nexathon next gen hackathon": {
+    "title": "Nexathon : Next Gen Hackathon",
+    "norm_title": "nexathon next gen hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+    "norm_url": "https://unstop.com/hackathons/nexathon-school-of-computers-ips-academy-indore-1795775",
+    "deadline": "09 Jan 2027",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:central india hackathon 40": {
+    "title": "Central India Hackathon 4.0",
+    "norm_title": "central india hackathon 40",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753",
+    "norm_url": "https://unstop.com/hackathons/central-india-hackathon-40-suryodaya-college-of-engineering-technology-nagpur-1788753",
+    "deadline": "23 Jan 2027",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:flare": {
+    "title": "Flare",
+    "norm_title": "flare",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/flare-hoollow-1797543",
+    "norm_url": "https://unstop.com/hackathons/flare-hoollow-1797543",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:constitutional quiz competition": {
+    "title": "Constitutional Quiz Competition",
+    "norm_title": "constitutional quiz competition",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956",
+    "norm_url": "https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:gyantrix": {
+    "title": "Gyantrix",
+    "norm_title": "gyantrix",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/gyantrix-catalyst-crew-dev-community-1792515",
+    "norm_url": "https://unstop.com/quiz/gyantrix-catalyst-crew-dev-community-1792515",
+    "deadline": "09 Dec 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:the leadership lab": {
+    "title": "The Leadership Lab",
+    "norm_title": "the leadership lab",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/the-leadership-lab-iim-rohtak-1796542",
+    "norm_url": "https://unstop.com/quiz/the-leadership-lab-iim-rohtak-1796542",
+    "deadline": "07 Nov 2026",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:techstorm": {
+    "title": "Techstorm",
+    "norm_title": "techstorm",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/techstorm-solutions-2k27-army-institute-of-technology-ait-pune-1797214",
+    "norm_url": "https://unstop.com/quiz/techstorm-solutions-2k27-army-institute-of-technology-ait-pune-1797214",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:inquizzitive": {
+    "title": "InQuizzitive",
+    "norm_title": "inquizzitive",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/inquizzitive-indian-institute-of-management-iim-kozhikode-1797017",
+    "norm_url": "https://unstop.com/quiz/inquizzitive-indian-institute-of-management-iim-kozhikode-1797017",
+    "deadline": "17 Jan 2027",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop:placement apti quiz": {
+    "title": "Placement Apti Quiz",
+    "norm_title": "placement apti quiz",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/placement-apti-quiz-solutions-2k27-army-institute-of-technology-ait-pune-1797250",
+    "norm_url": "https://unstop.com/quiz/placement-apti-quiz-solutions-2k27-army-institute-of-technology-ait-pune-1797250",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-06T09:37:50.311642+00:00"
   }
 }
