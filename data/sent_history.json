@@ -1735,5 +1735,284 @@
     "norm_url": "https://unstop.com/quiz/placement-apti-quiz-solutions-2k27-army-institute-of-technology-ait-pune-1797250",
     "deadline": "05 Mar 2027",
     "first_seen": "2026-11-06T09:37:50.311642+00:00"
+  },
+  "unstop (product space):ai product buildathon": {
+    "title": "AI Product Buildathon",
+    "norm_title": "ai product buildathon",
+    "platform": "Unstop (Product Space)",
+    "apply_url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+    "norm_url": "https://unstop.com/hackathons/ai-product-buildathon-product-space-1799475",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology, pune):project jupyter": {
+    "title": "Project Jupyter",
+    "norm_title": "project jupyter",
+    "platform": "Unstop (Army Institute of technology, Pune)",
+    "apply_url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+    "norm_url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+    "deadline": "10 Mar 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (agnel charities fr. c. rodrigues institute of technology, vashi, navi mumbai):overclock": {
+    "title": "Overclock",
+    "norm_title": "overclock",
+    "platform": "Unstop (Agnel Charities Fr. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai)",
+    "apply_url": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
+    "norm_url": "https://unstop.com/hackathons/overclock-agnel-charities-fr-c-rodrigues-institute-of-technology-vashi-navi-mumbai-1798677",
+    "deadline": "30 Jan 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology, pune):solidworks": {
+    "title": "Solidworks",
+    "norm_title": "solidworks",
+    "platform": "Unstop (Army Institute of technology, Pune)",
+    "apply_url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+    "norm_url": "https://unstop.com/hackathons/solidworks-solutions-2k27-army-institute-of-technology-pune-1799800",
+    "deadline": "04 Mar 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology, pune):crackhunt": {
+    "title": "Crackhunt",
+    "norm_title": "crackhunt",
+    "platform": "Unstop (Army Institute of technology, Pune)",
+    "apply_url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+    "norm_url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 ece": {
+    "title": "Expanding Horizons 8.0 ECE",
+    "norm_title": "expanding horizons 80 ece",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-ece-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799778",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 civil": {
+    "title": "Expanding Horizons 8.0 CIVIL",
+    "norm_title": "expanding horizons 80 civil",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology, pune):sql mania": {
+    "title": "SQL Mania",
+    "norm_title": "sql mania",
+    "platform": "Unstop (Army Institute of technology, Pune)",
+    "apply_url": "https://unstop.com/hackathons/sql-mania-solutions-2k27-army-institute-of-technology-pune-1799761",
+    "norm_url": "https://unstop.com/hackathons/sql-mania-solutions-2k27-army-institute-of-technology-pune-1799761",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 software": {
+    "title": "Expanding Horizons 8.0 Software",
+    "norm_title": "expanding horizons 80 software",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-software-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799767",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (echo engineers):ai vibeathon 2026 promptwars echo engineers": {
+    "title": "AI Vibeathon 2026 | PromptWars × Echo Engineers",
+    "norm_title": "ai vibeathon 2026 promptwars echo engineers",
+    "platform": "Unstop (ECHO ENGINEERS)",
+    "apply_url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+    "norm_url": "https://unstop.com/hackathons/ai-vibeathon-2026-promptwars-echo-engineers-echo-engineers-1799092",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 consultancy": {
+    "title": "Expanding Horizons 8.0 Consultancy",
+    "norm_title": "expanding horizons 80 consultancy",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-consultancy-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799776",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 mechanical": {
+    "title": "Expanding Horizons 8.0 Mechanical",
+    "norm_title": "expanding horizons 80 mechanical",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-mechanical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799788",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 biotech": {
+    "title": "Expanding Horizons 8.0 BIOTECH",
+    "norm_title": "expanding horizons 80 biotech",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-biotech-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799790",
+    "deadline": "23 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 chemical": {
+    "title": "Expanding Horizons 8.0 Chemical",
+    "norm_title": "expanding horizons 80 chemical",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-chemical-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799791",
+    "deadline": "23 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (chhattisgarh swami vivekanand technical university (csvtu), bhilai, chhattisgarh):goblet of codes": {
+    "title": "Goblet of Codes",
+    "norm_title": "goblet of codes",
+    "platform": "Unstop (Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh)",
+    "apply_url": "https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470",
+    "norm_url": "https://unstop.com/hackathons/goblet-of-codes-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1798470",
+    "deadline": "17 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (product space):ai builder hackathon": {
+    "title": "AI Builder Hackathon",
+    "norm_title": "ai builder hackathon",
+    "platform": "Unstop (Product Space)",
+    "apply_url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+    "norm_url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (gradient learnings):data analytics hackathon": {
+    "title": "Data Analytics Hackathon",
+    "norm_title": "data analytics hackathon",
+    "platform": "Unstop (Gradient Learnings)",
+    "apply_url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+    "norm_url": "https://unstop.com/hackathons/data-analytics-hackathon-gradient-learnings-1799543",
+    "deadline": "15 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (shri vishwakarma skill university):change for build": {
+    "title": "Change For Build",
+    "norm_title": "change for build",
+    "platform": "Unstop (Shri Vishwakarma Skill University)",
+    "apply_url": "https://unstop.com/hackathons/change-for-build-shri-vishwakarma-skill-university-1798658",
+    "norm_url": "https://unstop.com/hackathons/change-for-build-shri-vishwakarma-skill-university-1798658",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):expanding horizons 80 ee": {
+    "title": "Expanding Horizons 8.0 EE",
+    "norm_title": "expanding horizons 80 ee",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+    "norm_url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology, pune):ethon": {
+    "title": "Ethon",
+    "norm_title": "ethon",
+    "platform": "Unstop (Army Institute of technology, Pune)",
+    "apply_url": "https://unstop.com/hackathons/ethon-solutions-2k27-army-institute-of-technology-pune-1799758",
+    "norm_url": "https://unstop.com/hackathons/ethon-solutions-2k27-army-institute-of-technology-pune-1799758",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (abes engineering college):exora 20 unveil the build": {
+    "title": "Exora 2.0 : Unveil The Build",
+    "norm_title": "exora 20 unveil the build",
+    "platform": "Unstop (ABES Engineering College)",
+    "apply_url": "https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143",
+    "norm_url": "https://unstop.com/hackathons/exora-20-unveil-the-build-abes-engineering-college-1799143",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (indira gandhi delhi technical university for women (igdtuw), delhi):hackrush 2026": {
+    "title": "Hackrush 2026",
+    "norm_title": "hackrush 2026",
+    "platform": "Unstop (Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi)",
+    "apply_url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
+    "norm_url": "https://unstop.com/hackathons/hackrush-2026-igdtuw-delhi-1799179",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (bms institute of technology and management (bmsitm), bangalore):decodex 26 enter the mission decode the unknown": {
+    "title": "DecodeX '26 - Enter the Mission. Decode the Unknown",
+    "norm_title": "decodex 26 enter the mission decode the unknown",
+    "platform": "Unstop (BMS Institute of Technology and Management (BMSITM), Bangalore)",
+    "apply_url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+    "norm_url": "https://unstop.com/hackathons/decodex-26-enter-the-mission-decode-the-unknown-bms-institute-of-technology-and-management-bmsitm-bangalore-1794529",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (seed global education services private limited):seed hackathon 2026": {
+    "title": "Seed Hackathon 2026",
+    "norm_title": "seed hackathon 2026",
+    "platform": "Unstop (SEED Global Education Services Private Limited)",
+    "apply_url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+    "norm_url": "https://unstop.com/hackathons/crp-seed-hackathon-2026-seed-global-education-services-private-limited-1798287",
+    "deadline": "09 Dec 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (army institute of technology (ait), pune):logic bumble coding debugging challenge": {
+    "title": "Logic Bumble – Coding & Debugging Challenge",
+    "norm_title": "logic bumble coding debugging challenge",
+    "platform": "Unstop (Army Institute of Technology (AIT), Pune)",
+    "apply_url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+    "norm_url": "https://unstop.com/hackathons/logic-bumble-coding-debugging-challenge-army-institute-of-technology-ait-pune-1798516",
+    "deadline": "12 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (lovely professional university (lpu), punjab):codedia 2026": {
+    "title": "CodeDia 2026",
+    "norm_title": "codedia 2026",
+    "platform": "Unstop (Lovely Professional University (LPU), Punjab)",
+    "apply_url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+    "norm_url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (navutkarsh):navutkarsh x leo hackathon 2026 innovate build solve realworld problems": {
+    "title": "NavUtkarsh x Leo Hackathon 2026 | Innovate, Build & Solve Real-World Problems",
+    "norm_title": "navutkarsh x leo hackathon 2026 innovate build solve realworld problems",
+    "platform": "Unstop (navutkarsh)",
+    "apply_url": "https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952",
+    "norm_url": "https://unstop.com/hackathons/navutkarsh-x-leo-hackathon-2026-innovate-build-solve-real-world-problems-navutkarsh-1771952",
+    "deadline": "26 Dec 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (lady shri ram college for women (lsr) university of delhi (du)):the viral verdict pop culture media quiz": {
+    "title": "The Viral Verdict: Pop Culture & Media Quiz",
+    "norm_title": "the viral verdict pop culture media quiz",
+    "platform": "Unstop (Lady Shri Ram College for Women (LSR) University of Delhi (DU))",
+    "apply_url": "https://unstop.com/quiz/the-viral-verdict-pop-culture-media-quiz-juxtapose26-lady-shri-ram-college-for-women-lsr-du-new-delhi-1799717",
+    "norm_url": "https://unstop.com/quiz/the-viral-verdict-pop-culture-media-quiz-juxtapose26-lady-shri-ram-college-for-women-lsr-du-new-delhi-1799717",
+    "deadline": "16 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (motilal nehru national institute of technology):ehp1": {
+    "title": "eHp1",
+    "norm_title": "ehp1",
+    "platform": "Unstop (Motilal Nehru National Institute of Technology)",
+    "apply_url": "https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247",
+    "norm_url": "https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "unstop (iste student chapter, bengaluru):diwali quiz competition 2026": {
+    "title": "DIWALI QUIZ COMPETITION 2026",
+    "norm_title": "diwali quiz competition 2026",
+    "platform": "Unstop (ISTE Student Chapter, Bengaluru)",
+    "apply_url": "https://unstop.com/quiz/diwali-quiz-competition-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1798687",
+    "norm_url": "https://unstop.com/quiz/diwali-quiz-competition-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1798687",
+    "deadline": "20 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
+  },
+  "superteam earn:make a video about our x402 feature": {
+    "title": "Make a video about our x402 Feature",
+    "norm_title": "make a video about our x402 feature",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/make-a-video-about-our-x402-feature",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/make-a-video-about-our-x402-feature",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-07T09:04:19.742966+00:00"
   }
 }
