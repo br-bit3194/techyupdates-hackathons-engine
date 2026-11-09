@@ -2167,5 +2167,50 @@
     "norm_url": "https://unstop.com/quiz/med-iq-medical-quiz-competition-nims-university-nu-jaipur-1774038",
     "deadline": "26 Nov 2026",
     "first_seen": "2026-11-08T09:19:35.976814+00:00"
+  },
+  "unstop:she code": {
+    "title": "She Code",
+    "norm_title": "she code",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-of-technology-pune-1802089",
+    "norm_url": "https://unstop.com/hackathons/she-code-solutions-2k27-army-institute-of-technology-pune-1802089",
+    "deadline": "05 Mar 2027",
+    "first_seen": "2026-11-09T10:03:21.172371+00:00"
+  },
+  "unstop:intercollege coding competition 2026": {
+    "title": "Inter-College Coding Competition 2026",
+    "norm_title": "intercollege coding competition 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
+    "norm_url": "https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814",
+    "deadline": "15 Nov 2026",
+    "first_seen": "2026-11-09T10:03:21.172371+00:00"
+  },
+  "unstop:aptimasterai competitive aptitude quiz competition 2026": {
+    "title": "APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026",
+    "norm_title": "aptimasterai competitive aptitude quiz competition 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131",
+    "norm_url": "https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131",
+    "deadline": "25 Nov 2026",
+    "first_seen": "2026-11-09T10:03:21.172371+00:00"
+  },
+  "unstop:statistics for analysts challenge 1": {
+    "title": "Statistics for Analysts Challenge 1",
+    "norm_title": "statistics for analysts challenge 1",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/statistics-for-analysts-challenge-1-campusfirst-india-1801626",
+    "norm_url": "https://unstop.com/quiz/statistics-for-analysts-challenge-1-campusfirst-india-1801626",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-09T10:03:21.172371+00:00"
+  },
+  "unstop:slumdog questionnaire desi mela quiz": {
+    "title": "Slumdog Questionnaire - Desi MELA quiz",
+    "norm_title": "slumdog questionnaire desi mela quiz",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/slumdog-questionnaire-fitoor-plaksha-university-1762197",
+    "norm_url": "https://unstop.com/quiz/slumdog-questionnaire-fitoor-plaksha-university-1762197",
+    "deadline": "11 Nov 2026",
+    "first_seen": "2026-11-09T10:03:21.172371+00:00"
   }
 }
