@@ -1,31 +1,4 @@
 {
-  "unstop (indian institute of management (iim), amritsar):kaun banega kotler 40": {
-    "title": "Kaun Banega Kotler 4.0",
-    "norm_title": "kaun banega kotler 40",
-    "platform": "Unstop (Indian Institute of Management (IIM), Amritsar)",
-    "apply_url": "https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123",
-    "norm_url": "https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123",
-    "deadline": "22 Oct 2026",
-    "first_seen": "2026-10-13T09:38:36.386834+00:00"
-  },
-  "unstop (st. vincent pallotti college of engineering and technology (svpcet), nagpur):codekshetra": {
-    "title": "Codekshetra",
-    "norm_title": "codekshetra",
-    "platform": "Unstop (St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur)",
-    "apply_url": "https://unstop.com/hackathons/codekshetra-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1769022",
-    "norm_url": "https://unstop.com/hackathons/codekshetra-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1769022",
-    "deadline": "31 Oct 2026",
-    "first_seen": "2026-10-13T09:38:36.386834+00:00"
-  },
-  "superteam earn:write a thread on chimp launching on metaplex part 1": {
-    "title": "Write a thread on $CHIMP Launching on Metaplex - Part 1",
-    "norm_title": "write a thread on chimp launching on metaplex part 1",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
-    "deadline": "2026-10-31",
-    "first_seen": "2026-10-13T09:38:36.386834+00:00"
-  },
   "unstop (interactup):the decision room a realworld challenge simulation": {
     "title": "THE DECISION ROOM: A Real-World Challenge Simulation",
     "norm_title": "the decision room a realworld challenge simulation",
@@ -2230,5 +2203,104 @@
     "norm_url": "https://earn.superteam.fun/listings/bounties/build-an-autonomous-capital-agent-on-solana-and-compete-for-dollar500-in-rewards",
     "deadline": "2026-12-10",
     "first_seen": "2026-11-11T09:43:24.195756+00:00"
+  },
+  "unstop (ganeshi lal bajaj institute of technology and management (glbitm), greater noida):android ignition": {
+    "title": "Android Ignition",
+    "norm_title": "android ignition",
+    "platform": "Unstop (Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida)",
+    "apply_url": "https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
+    "norm_url": "https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946",
+    "deadline": "06 Dec 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (rabinja squad):rabinjathon prime 1": {
+    "title": "Rabinjathon: Prime 1",
+    "norm_title": "rabinjathon prime 1",
+    "platform": "Unstop (Rabinja Squad)",
+    "apply_url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+    "norm_url": "https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846",
+    "deadline": "05 Feb 2027",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (vellore institute of technology (vit), chennai):defy27": {
+    "title": "Defy'27",
+    "norm_title": "defy27",
+    "platform": "Unstop (Vellore Institute of Technology (VIT), Chennai)",
+    "apply_url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
+    "norm_url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
+    "deadline": "14 Dec 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (rajagiri business school):rajagiri national business quiz 17th edition offline prelims": {
+    "title": "Rajagiri National Business Quiz 17th Edition- Offline Prelims",
+    "norm_title": "rajagiri national business quiz 17th edition offline prelims",
+    "platform": "Unstop (Rajagiri Business School)",
+    "apply_url": "https://unstop.com/quiz/rajagiri-national-business-quiz-17th-edition-offline-prelims-rajagiri-business-school-1806001",
+    "norm_url": "https://unstop.com/quiz/rajagiri-national-business-quiz-17th-edition-offline-prelims-rajagiri-business-school-1806001",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (thapar institute of engineering and technology (tiet), patiala):quizathon saturnalia26": {
+    "title": "Quizathon - Saturnalia’26",
+    "norm_title": "quizathon saturnalia26",
+    "platform": "Unstop (Thapar Institute of Engineering and Technology (TIET), Patiala)",
+    "apply_url": "https://unstop.com/quiz/quizathon-saturnalia26-thapar-institute-of-engineering-and-technology-tiet-patiala-1803773",
+    "norm_url": "https://unstop.com/quiz/quizathon-saturnalia26-thapar-institute-of-engineering-and-technology-tiet-patiala-1803773",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (indian institute of plantation management, bengaluru):jnaanalaya the quiz competition": {
+    "title": "Jnaanalaya: The Quiz Competition",
+    "norm_title": "jnaanalaya the quiz competition",
+    "platform": "Unstop (Indian Institute of Plantation Management, Bengaluru)",
+    "apply_url": "https://unstop.com/quiz/jnaanalaya-the-quiz-competition-nirvah-2k26-27-indian-institute-of-plantation-management-bengaluru-1806797",
+    "norm_url": "https://unstop.com/quiz/jnaanalaya-the-quiz-competition-nirvah-2k26-27-indian-institute-of-plantation-management-bengaluru-1806797",
+    "deadline": "26 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (poonji vidya technologies private limited):cfa l1 full subject live mock quiz": {
+    "title": "CFA L1 Full Subject Live Mock Quiz",
+    "norm_title": "cfa l1 full subject live mock quiz",
+    "platform": "Unstop (Poonji Vidya Technologies Private Limited)",
+    "apply_url": "https://unstop.com/quiz/cfa-l1-full-subject-live-mock-quiz-poonji-vidya-technologies-private-limited-1806779",
+    "norm_url": "https://unstop.com/quiz/cfa-l1-full-subject-live-mock-quiz-poonji-vidya-technologies-private-limited-1806779",
+    "deadline": "15 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (indian institute of management (iim), mumbai):avartan general quiz 2026": {
+    "title": "Avartan General Quiz 2026",
+    "norm_title": "avartan general quiz 2026",
+    "platform": "Unstop (Indian Institute of Management (IIM), Mumbai)",
+    "apply_url": "https://unstop.com/quiz/avartan-general-quiz-2026-avartan-2026-iim-mumbai-1806158",
+    "norm_url": "https://unstop.com/quiz/avartan-general-quiz-2026-avartan-2026-iim-mumbai-1806158",
+    "deadline": "04 Dec 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (campus konnect):fathom 10": {
+    "title": "Fathom 1.0",
+    "norm_title": "fathom 10",
+    "platform": "Unstop (Campus Konnect)",
+    "apply_url": "https://unstop.com/quiz/fathom-10-campus-konnect-1805956",
+    "norm_url": "https://unstop.com/quiz/fathom-10-campus-konnect-1805956",
+    "deadline": "14 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (ooro):ooro the attention heist 20 second reel challenge": {
+    "title": "OORO: The Attention Heist - 20 Second Reel Challenge",
+    "norm_title": "ooro the attention heist 20 second reel challenge",
+    "platform": "Unstop (Ooro)",
+    "apply_url": "https://unstop.com/competitions/ooro-the-attention-heist-20-second-reel-challenge-ooro-1806157",
+    "norm_url": "https://unstop.com/competitions/ooro-the-attention-heist-20-second-reel-challenge-ooro-1806157",
+    "deadline": "27 Nov 2026",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "superteam earn:write a thread on chimp fair launch part 1": {
+    "title": "Write a thread on $CHIMP Fair Launch - Part 1",
+    "norm_title": "write a thread on chimp fair launch part 1",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
+    "deadline": "2026-11-14",
+    "first_seen": "2026-11-12T10:03:17.152625+00:00"
   }
 }
