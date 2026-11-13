@@ -1,40 +1,4 @@
 {
-  "unstop (interactup):the decision room a realworld challenge simulation": {
-    "title": "THE DECISION ROOM: A Real-World Challenge Simulation",
-    "norm_title": "the decision room a realworld challenge simulation",
-    "platform": "Unstop (InteractUp)",
-    "apply_url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
-    "norm_url": "https://unstop.com/competitions/the-decision-room-a-real-world-challenge-simulation-interactup-1769969",
-    "deadline": "31 Oct 2026",
-    "first_seen": "2026-10-14T07:53:33.137632+00:00"
-  },
-  "unstop (kiet group of institutions):ideatex 40": {
-    "title": "Ideatex 4.0",
-    "norm_title": "ideatex 40",
-    "platform": "Unstop (KIET Group of Institutions)",
-    "apply_url": "https://unstop.com/competitions/ideatex-40-kiet-group-of-institutions-1770053",
-    "norm_url": "https://unstop.com/competitions/ideatex-40-kiet-group-of-institutions-1770053",
-    "deadline": "26 Oct 2026",
-    "first_seen": "2026-10-14T07:53:33.137632+00:00"
-  },
-  "unstop (hackhere):ooty hacks": {
-    "title": "Ooty Hacks",
-    "norm_title": "ooty hacks",
-    "platform": "Unstop (Hackhere)",
-    "apply_url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
-    "norm_url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
-    "deadline": "25 Nov 2026",
-    "first_seen": "2026-10-14T07:53:33.137632+00:00"
-  },
-  "superteam earn:panta x nectarfi trading competition bounty": {
-    "title": "Panta x NectarFi Trading Competition Bounty",
-    "norm_title": "panta x nectarfi trading competition bounty",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/panta-x-nectarfi-trading-competition-bounty",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/panta-x-nectarfi-trading-competition-bounty",
-    "deadline": "2026-11-12",
-    "first_seen": "2026-10-14T07:53:33.137632+00:00"
-  },
   "unstop (jaypee institute of information technology):ace it live business challenge": {
     "title": "ACE IT - Live Business Challenge",
     "norm_title": "ace it live business challenge",
@@ -2302,5 +2266,122 @@
     "norm_url": "https://earn.superteam.fun/listings/bounties/chimp-on-metaplex",
     "deadline": "2026-11-14",
     "first_seen": "2026-11-12T10:03:17.152625+00:00"
+  },
+  "unstop (the national institute of engineering, karnataka):data sprint 20": {
+    "title": "Data Sprint 2.0",
+    "norm_title": "data sprint 20",
+    "platform": "Unstop (The National Institute of Engineering, Karnataka)",
+    "apply_url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
+    "norm_url": "https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (hoollow):bad ideas only": {
+    "title": "Bad Ideas Only",
+    "norm_title": "bad ideas only",
+    "platform": "Unstop (Hoollow)",
+    "apply_url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
+    "norm_url": "https://unstop.com/hackathons/bad-ideas-only-hoollow-1805107",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (dr. ambedkar institute of technology for divyangjan):promptwars x aith": {
+    "title": "PromptWars X AITH",
+    "norm_title": "promptwars x aith",
+    "platform": "Unstop (Dr. Ambedkar Institute of Technology for Divyangjan)",
+    "apply_url": "https://unstop.com/hackathons/promptwars-x-aITH-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
+    "norm_url": "https://unstop.com/hackathons/promptwars-x-aITH-dr-ambedkar-institute-of-technology-for-divyangjan-1807596",
+    "deadline": "20 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (gm university davanagere):capture the flag ctf": {
+    "title": "Capture The Flag (CTF)",
+    "norm_title": "capture the flag ctf",
+    "platform": "Unstop (GM University Davanagere)",
+    "apply_url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
+    "norm_url": "https://unstop.com/hackathons/capture-the-flag-ctf-ignitron-2k26-gm-university-davanagere-1791574",
+    "deadline": "03 Dec 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (hackkro):hackkro codebyte 2026": {
+    "title": "HackKro CodeByte 2026",
+    "norm_title": "hackkro codebyte 2026",
+    "platform": "Unstop (HackKro)",
+    "apply_url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
+    "norm_url": "https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297",
+    "deadline": "07 Dec 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (gm university davanagere):code rush 24 hours hackathon": {
+    "title": "Code Rush – 24 Hours Hackathon",
+    "norm_title": "code rush 24 hours hackathon",
+    "platform": "Unstop (GM University Davanagere)",
+    "apply_url": "https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410",
+    "norm_url": "https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (quik cpq solutions llp):quikcpq ai innovation challenge 2027": {
+    "title": "QuikCPQ AI Innovation Challenge 2027",
+    "norm_title": "quikcpq ai innovation challenge 2027",
+    "platform": "Unstop (Quik CPQ Solutions LLP)",
+    "apply_url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+    "norm_url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
+    "deadline": "27 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "unstop (vidyantar foundation):ai for everyone check your knowledge on ai": {
+    "title": "AI for Everyone - Check your knowledge on AI",
+    "norm_title": "ai for everyone check your knowledge on ai",
+    "platform": "Unstop (Vidyantar Foundation)",
+    "apply_url": "https://unstop.com/quiz/ai-for-everyone-check-your-knowledge-on-ai-vidyantar-foundation-1772807",
+    "norm_url": "https://unstop.com/quiz/ai-for-everyone-check-your-knowledge-on-ai-vidyantar-foundation-1772807",
+    "deadline": "13 Nov 2026",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "superteam earn:the raenest global bounty writing video animation bounty": {
+    "title": "The Raenest Global Bounty - Writing, Video & Animation Bounty",
+    "norm_title": "the raenest global bounty writing video animation bounty",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/the-raenest-global-bounty-writing-video-and-animation",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/the-raenest-global-bounty-writing-video-and-animation",
+    "deadline": "2026-12-13",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "superteam earn:startup village chitwan gaida race": {
+    "title": "Startup Village Chitwan - Gaida Race",
+    "norm_title": "startup village chitwan gaida race",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/startup-village-chitwan-gaida-race",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/startup-village-chitwan-gaida-race",
+    "deadline": "2026-11-14",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "superteam earn:play a cat game 40 players win 5 usdc each": {
+    "title": "Play a cat game. 40 players win 5 USDC each.",
+    "norm_title": "play a cat game 40 players win 5 usdc each",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/play-a-cat-game-40-players-win-5-usdc-each",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/play-a-cat-game-40-players-win-5-usdc-each",
+    "deadline": "2026-11-15",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "superteam earn:a narrative of buying baobao on paj twitter thread": {
+    "title": "A Narrative of Buying BAOBAO on PAJ - Twitter thread",
+    "norm_title": "a narrative of buying baobao on paj twitter thread",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/a-narrative-of-buying-baobao-on-paj-twitter-x-thread",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/a-narrative-of-buying-baobao-on-paj-twitter-x-thread",
+    "deadline": "2026-11-21",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
+  },
+  "superteam earn:create nosana content explainer threadarticle or creative memevideo": {
+    "title": "Create Nosana content: Explainer Thread/Article or Creative Meme/Video",
+    "norm_title": "create nosana content explainer threadarticle or creative memevideo",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/create-nosana-content-explainer-threadarticle-or-creative-memevideo",
+    "deadline": "2026-11-25",
+    "first_seen": "2026-11-13T09:51:15.500929+00:00"
   }
 }
