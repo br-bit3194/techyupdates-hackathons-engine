@@ -1,40 +1,4 @@
 {
-  "unstop:design the next drop": {
-    "title": "Design the Next Drop",
-    "norm_title": "design the next drop",
-    "platform": "Unstop",
-    "apply_url": "https://unstop.com/competitions/design-the-next-drop-the-tough-ones-private-limited-1769975",
-    "norm_url": "https://unstop.com/competitions/design-the-next-drop-the-tough-ones-private-limited-1769975",
-    "deadline": "08 Nov 2026",
-    "first_seen": "2026-10-17T07:07:02.718583+00:00"
-  },
-  "superteam earn:redesign your favourite app on solana": {
-    "title": "Redesign Your Favourite App on Solana",
-    "norm_title": "redesign your favourite app on solana",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/redesign-your-favourite-app-on-solana",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/redesign-your-favourite-app-on-solana",
-    "deadline": "23 Oct 2026",
-    "first_seen": "2026-10-17T07:07:02.718583+00:00"
-  },
-  "superteam earn:rumbo a breakpoint 2026 gana una entrada y apoyo para tu viaje": {
-    "title": "Rumbo a Breakpoint 2026: gana una entrada y apoyo para tu viaje",
-    "norm_title": "rumbo a breakpoint 2026 gana una entrada y apoyo para tu viaje",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/rumbo-a-breakpoint-2026-gana-una-entrada-y-apoyo-para-tu-viaje",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/rumbo-a-breakpoint-2026-gana-una-entrada-y-apoyo-para-tu-viaje",
-    "deadline": "25 Oct 2026",
-    "first_seen": "2026-10-17T07:07:02.718583+00:00"
-  },
-  "superteam earn:hackyeah superteam poland track": {
-    "title": "HackYeah - Superteam Poland Track",
-    "norm_title": "hackyeah superteam poland track",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/hackyeah-superteam-poland-track",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/hackyeah-superteam-poland-track",
-    "deadline": "30 Oct 2026",
-    "first_seen": "2026-10-17T07:07:02.718583+00:00"
-  },
   "unstop:catalyst solo ai hackathon": {
     "title": "Catalyst - Solo AI Hackathon",
     "norm_title": "catalyst solo ai hackathon",
@@ -2500,5 +2464,77 @@
     "norm_url": "https://earn.superteam.fun/listings/bounties/write-an-article-on-fundraising-opportunities-for-early-and-mid-stage-projects",
     "deadline": "2026-11-21",
     "first_seen": "2026-11-15T09:46:30.460971+00:00"
+  },
+  "unstop (iit bombay):the algo trading innovation challenge": {
+    "title": "The Algo Trading Innovation Challenge",
+    "norm_title": "the algo trading innovation challenge",
+    "platform": "Unstop (IIT Bombay)",
+    "apply_url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
+    "norm_url": "https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240",
+    "deadline": "29 Nov 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (edulinkup):elu build": {
+    "title": "ELU Build",
+    "norm_title": "elu build",
+    "platform": "Unstop (EduLinkUp)",
+    "apply_url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
+    "norm_url": "https://unstop.com/hackathons/elubuild-edulinkup-1811493",
+    "deadline": "25 Dec 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (iiit bhubaneswar):craft n code haryana": {
+    "title": "Craft N Code Haryana",
+    "norm_title": "craft n code haryana",
+    "platform": "Unstop (IIIT Bhubaneswar)",
+    "apply_url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
+    "norm_url": "https://unstop.com/hackathons/craft-n-code-haryana-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technology-iii-1746142",
+    "deadline": "06 Feb 2027",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (rait navi mumbai):raitctf 20": {
+    "title": "RAIT-CTF 2.0",
+    "norm_title": "raitctf 20",
+    "platform": "Unstop (RAIT Navi Mumbai)",
+    "apply_url": "https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033",
+    "norm_url": "https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033",
+    "deadline": "31 Jan 2027",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (iim rohtak):jargon buster": {
+    "title": "Jargon Buster",
+    "norm_title": "jargon buster",
+    "platform": "Unstop (IIM Rohtak)",
+    "apply_url": "https://unstop.com/quiz/jargon-buster-iim-rohtak-1812410",
+    "norm_url": "https://unstop.com/quiz/jargon-buster-iim-rohtak-1812410",
+    "deadline": "19 Nov 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (3r zero waste pvt ltd):karmaverse green champions quiz childrens day special 2026": {
+    "title": "KarmaVerse Green Champions Quiz – Children's Day Special 2026",
+    "norm_title": "karmaverse green champions quiz childrens day special 2026",
+    "platform": "Unstop (3R Zero Waste Pvt Ltd)",
+    "apply_url": "https://unstop.com/quiz/karmaverse-green-champions-quiz-childrens-day-special-2026-karmaverse-green-creator-challenge-childrens-day-special-1809771",
+    "norm_url": "https://unstop.com/quiz/karmaverse-green-champions-quiz-childrens-day-special-2026-karmaverse-green-creator-challenge-childrens-day-special-1809771",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (techzen innovation):techzen ai challenge 2026": {
+    "title": "TechZen AI Challenge 2026",
+    "norm_title": "techzen ai challenge 2026",
+    "platform": "Unstop (TechZen Innovation)",
+    "apply_url": "https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236",
+    "norm_url": "https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236",
+    "deadline": "02 Dec 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (ditto insurance):ditto by finshots strategy sprint season 1": {
+    "title": "Ditto by Finshots Strategy Sprint: Season 1",
+    "norm_title": "ditto by finshots strategy sprint season 1",
+    "platform": "Unstop (Ditto Insurance)",
+    "apply_url": "https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031",
+    "norm_url": "https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-16T10:01:09.047978+00:00"
   }
 }
