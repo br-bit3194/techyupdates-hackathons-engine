@@ -1,22 +1,4 @@
 {
-  "unstop:catalyst solo ai hackathon": {
-    "title": "Catalyst - Solo AI Hackathon",
-    "norm_title": "catalyst solo ai hackathon",
-    "platform": "Unstop",
-    "apply_url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-    "norm_url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
-    "deadline": "15 Nov 2026",
-    "first_seen": "2026-10-18T07:21:28.377301+00:00"
-  },
-  "unstop:brandstruck 2026": {
-    "title": "Brandstruck 2026",
-    "norm_title": "brandstruck 2026",
-    "platform": "Unstop",
-    "apply_url": "https://unstop.com/competitions/brandstruck-2026-avenues-2026-sjmsom-1771616",
-    "norm_url": "https://unstop.com/competitions/brandstruck-2026-avenues-2026-sjmsom-1771616",
-    "deadline": "25 Nov 2026",
-    "first_seen": "2026-10-18T07:21:28.377301+00:00"
-  },
   "unstop (mst blockchain):mst blockchain buildathon from idea to mvp": {
     "title": "MST Blockchain Buildathon | From Idea to MVP",
     "norm_title": "mst blockchain buildathon from idea to mvp",
@@ -2536,5 +2518,95 @@
     "norm_url": "https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031",
     "deadline": "28 Nov 2026",
     "first_seen": "2026-11-16T10:01:09.047978+00:00"
+  },
+  "unstop (guru nanak dev engineering college bidar):spectrum 10 24 hour national level hackathon": {
+    "title": "Spectrum 1.0 – 24 Hour National Level Hackathon",
+    "norm_title": "spectrum 10 24 hour national level hackathon",
+    "platform": "Unstop (Guru Nanak Dev Engineering College Bidar)",
+    "apply_url": "https://unstop.com/hackathons/spectrum-10-24-hour-national-level-hackathon-guru-nanak-dev-engineering-college-bidar-1812368",
+    "norm_url": "https://unstop.com/hackathons/spectrum-10-24-hour-national-level-hackathon-guru-nanak-dev-engineering-college-bidar-1812368",
+    "deadline": "06 Dec 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (k. j. somaiya college of engineering (kjsce), vidyavihar):agritech hackathon 2027 24 hours to hack the harvest": {
+    "title": "Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest",
+    "norm_title": "agritech hackathon 2027 24 hours to hack the harvest",
+    "platform": "Unstop (K. J. Somaiya College of Engineering (KJSCE), Vidyavihar)",
+    "apply_url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+    "norm_url": "https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152",
+    "deadline": "23 Jan 2027",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (biorad medisys private limited):srujana ai 2026 hackathon batch 3": {
+    "title": "Srujana AI 2026 Hackathon (Batch 3)",
+    "norm_title": "srujana ai 2026 hackathon batch 3",
+    "platform": "Unstop (Biorad Medisys Private Limited)",
+    "apply_url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+    "norm_url": "https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480",
+    "deadline": "19 Nov 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (birla institute of technology, mesra, ranchi):ctf cicada 2026": {
+    "title": "CTF Cicada 2026",
+    "norm_title": "ctf cicada 2026",
+    "platform": "Unstop (Birla Institute of Technology, Mesra, Ranchi)",
+    "apply_url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+    "norm_url": "https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002",
+    "deadline": "10 Dec 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (indian institute of technology (iit), bhubaneswar):code relay 50": {
+    "title": "Code Relay 5.0",
+    "norm_title": "code relay 50",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Bhubaneswar)",
+    "apply_url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+    "norm_url": "https://unstop.com/hackathons/code-relay-50-indian-institute-of-technology-iit-bhubaneswar-1810370",
+    "deadline": "17 Jan 2027",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (op jindal university (opju), raigarh, chhattisgarh):metal masters 20 national level quiz": {
+    "title": "Metal Masters 2.0 National Level Quiz",
+    "norm_title": "metal masters 20 national level quiz",
+    "platform": "Unstop (OP Jindal University (OPJU), Raigarh, Chhattisgarh)",
+    "apply_url": "https://unstop.com/quiz/metal-masters-20-national-level-quiz-op-jindal-university-opju-raigarh-chhattisgarh-1813607",
+    "norm_url": "https://unstop.com/quiz/metal-masters-20-national-level-quiz-op-jindal-university-opju-raigarh-chhattisgarh-1813607",
+    "deadline": "23 Nov 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (mind race):logic sprint online logical reasoning challenge": {
+    "title": "Logic Sprint: Online Logical Reasoning Challenge",
+    "norm_title": "logic sprint online logical reasoning challenge",
+    "platform": "Unstop (Mind Race)",
+    "apply_url": "https://unstop.com/quiz/logic-sprint-online-logical-reasoning-challenge-mind-race-1813983",
+    "norm_url": "https://unstop.com/quiz/logic-sprint-online-logical-reasoning-challenge-mind-race-1813983",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (indian institute of management (iim), rohtak):finsight sharpen your financial insight 8": {
+    "title": "FinSight: Sharpen Your Financial Insight - 8",
+    "norm_title": "finsight sharpen your financial insight 8",
+    "platform": "Unstop (Indian Institute of Management (IIM), Rohtak)",
+    "apply_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-8-iim-rohtak-1814430",
+    "norm_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-8-iim-rohtak-1814430",
+    "deadline": "18 Nov 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "unstop (pepsico):pep agro stars": {
+    "title": "Pep Agro Stars",
+    "norm_title": "pep agro stars",
+    "platform": "Unstop (PepsiCo)",
+    "apply_url": "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515",
+    "norm_url": "https://unstop.com/workshops-webinars/crp-pep-agro-stars-pep-stars-2026-pepsico-1687515",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
+  },
+  "superteam earn:provide feedback on our new support assistant nosa": {
+    "title": "Provide Feedback on our new Support Assistant Nosa",
+    "norm_title": "provide feedback on our new support assistant nosa",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/provide-feedback-on-our-new-support-assistant-nosa",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/provide-feedback-on-our-new-support-assistant-nosa",
+    "deadline": "2026-11-29",
+    "first_seen": "2026-11-17T10:58:29.363685+00:00"
   }
 }
