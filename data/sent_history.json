@@ -1,22 +1,4 @@
 {
-  "unstop (mst blockchain):mst blockchain buildathon from idea to mvp": {
-    "title": "MST Blockchain Buildathon | From Idea to MVP",
-    "norm_title": "mst blockchain buildathon from idea to mvp",
-    "platform": "Unstop (MST Blockchain)",
-    "apply_url": "https://unstop.com/hackathons/mst-blockchain-buildathon-from-idea-to-mvp-mst-blockchain-1772228",
-    "norm_url": "https://unstop.com/hackathons/mst-blockchain-buildathon-from-idea-to-mvp-mst-blockchain-1772228",
-    "deadline": "01 Nov 2026",
-    "first_seen": "2026-10-20T07:50:13.901962+00:00"
-  },
-  "unstop (wecodecoders):code conqueror india 2026 national hackathon": {
-    "title": "Code Conqueror India 2026 - National Hackathon",
-    "norm_title": "code conqueror india 2026 national hackathon",
-    "platform": "Unstop (WeCodeCoders)",
-    "apply_url": "https://unstop.com/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
-    "norm_url": "https://unstop.com/hackathons/code-conqueror-india-2026-national-hackathon-wecodecoders-1772304",
-    "deadline": "06 Nov 2026",
-    "first_seen": "2026-10-20T07:50:13.901962+00:00"
-  },
   "unstop (interactup):your idea our capital 50k sprint season 2": {
     "title": "Your Idea. Our Capital: 50k Sprint (Season 2)",
     "norm_title": "your idea our capital 50k sprint season 2",
@@ -2698,5 +2680,212 @@
     "norm_url": "https://unstop.com/competitions/crp-mondelez-maestros-2026-commercial-track-mondelez-maestros-2026-mondelez-international-1813372",
     "deadline": "19 Jan 2027",
     "first_seen": "2026-11-18T10:30:51.637784+00:00"
+  },
+  "unstop (siddaganga institute of technology (sit), tumkur):wie code 2k26": {
+    "title": "Wie Code 2K26",
+    "norm_title": "wie code 2k26",
+    "platform": "Unstop (Siddaganga Institute of Technology (SIT), Tumkur)",
+    "apply_url": "https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
+    "norm_url": "https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (symbiosis university of applied sciences (suas), indore, madhya pradesh):skill hackathon 2027": {
+    "title": "Skill Hackathon 2027",
+    "norm_title": "skill hackathon 2027",
+    "platform": "Unstop (Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh)",
+    "apply_url": "https://unstop.com/hackathons/skill-hackathon-2027-symbiosis-skill-hackathon-20-ssh-2027-symbiosis-university-of-applied-sciences-suas-indo-1770707",
+    "norm_url": "https://unstop.com/hackathons/skill-hackathon-2027-symbiosis-skill-hackathon-20-ssh-2027-symbiosis-university-of-applied-sciences-suas-indo-1770707",
+    "deadline": "23 Feb 2027",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (pranveer singh institute of technology (psit), kanpur):nurn 2026 national innovation technology challenge": {
+    "title": "Nurn 2026 – National Innovation & Technology Challenge",
+    "norm_title": "nurn 2026 national innovation technology challenge",
+    "platform": "Unstop (Pranveer Singh Institute of Technology (PSIT), Kanpur)",
+    "apply_url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+    "norm_url": "https://unstop.com/hackathons/nurn-2026-national-innovation-technology-challenge-pranveer-singh-institute-of-technology-psit-kanpur-1817757",
+    "deadline": "10 Jan 2027",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (vidyavardhaka college of engineering, mysore):sustainiq": {
+    "title": "SustainIQ",
+    "norm_title": "sustainiq",
+    "platform": "Unstop (Vidyavardhaka College of Engineering, Mysore)",
+    "apply_url": "https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270",
+    "norm_url": "https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270",
+    "deadline": "04 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (buildx):codewarriors india 2026 national hackathon": {
+    "title": "CodeWarriors India 2026 - National Hackathon",
+    "norm_title": "codewarriors india 2026 national hackathon",
+    "platform": "Unstop (BuildX)",
+    "apply_url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+    "norm_url": "https://unstop.com/hackathons/codewarriors-india-2026-national-hackathon-buildx-1817737",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (indian institute of technology (iit), madras):cpp competitive programming potpourri": {
+    "title": "CPP - Competitive Programming Potpourri",
+    "norm_title": "cpp competitive programming potpourri",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Madras)",
+    "apply_url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995",
+    "norm_url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995",
+    "deadline": "04 Jan 2027",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (padmabhooshan vasantdada patil institute of technology (pvpit), pune):prompt war syntax squad": {
+    "title": "Prompt War & Syntax Squad",
+    "norm_title": "prompt war syntax squad",
+    "platform": "Unstop (Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune)",
+    "apply_url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+    "norm_url": "https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490",
+    "deadline": "09 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (indian institute of technology (iit), bombay):anveshak openworld object detection for remote sensing": {
+    "title": "Anveshak: Open-World Object Detection for Remote Sensing",
+    "norm_title": "anveshak openworld object detection for remote sensing",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Bombay)",
+    "apply_url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+    "norm_url": "https://unstop.com/hackathons/anveshak-open-world-object-detection-for-remote-sensing-iit-bombay-1818894",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (indian institute of technology (iit), bombay):campus to cloud hackathon": {
+    "title": "Campus to Cloud Hackathon",
+    "norm_title": "campus to cloud hackathon",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Bombay)",
+    "apply_url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
+    "norm_url": "https://unstop.com/hackathons/campus-to-cloud-hackathon-iit-bombay-1818968",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (university of engineering and management, kolkata ):refract 10 hackathon": {
+    "title": "REFRACT 1.0 Hackathon",
+    "norm_title": "refract 10 hackathon",
+    "platform": "Unstop (University Of Engineering And Management, Kolkata )",
+    "apply_url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
+    "norm_url": "https://unstop.com/hackathons/refract-10-hackathon-university-of-engineering-and-management-kolkata-1817240",
+    "deadline": "31 Jan 2027",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (indian institute of information technology (iiit), lucknow):ai kaushal hackathon 2026": {
+    "title": "AI Kaushal Hackathon 2026",
+    "norm_title": "ai kaushal hackathon 2026",
+    "platform": "Unstop (Indian Institute of Information Technology (IIIT), Lucknow)",
+    "apply_url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
+    "norm_url": "https://unstop.com/hackathons/ai-kaushal-hackathon-2026-indian-institute-of-information-technology-iiit-lucknow-1817798",
+    "deadline": "09 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (dr. dy patil institute of technology):incursion 2027 24hour national level hackathon": {
+    "title": "Incursion 2027 24-Hour National Level Hackathon",
+    "norm_title": "incursion 2027 24hour national level hackathon",
+    "platform": "Unstop (Dr. DY Patil Institute of Technology)",
+    "apply_url": "https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
+    "norm_url": "https://unstop.com/hackathons/incursion-2027-24-hour-national-level-hackathon-dr-dy-patil-institute-of-technology-1806016",
+    "deadline": "31 Jan 2027",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (hackwithpune):codeunited india national hackathon": {
+    "title": "CodeUnited India - National Hackathon",
+    "norm_title": "codeunited india national hackathon",
+    "platform": "Unstop (HackWithPune)",
+    "apply_url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+    "norm_url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (chandigarh university (cu), ajitgarh, punjab):code fort 2027": {
+    "title": "Code Fort 2027",
+    "norm_title": "code fort 2027",
+    "platform": "Unstop (Chandigarh University (CU), Ajitgarh, Punjab)",
+    "apply_url": "https://unstop.com/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
+    "norm_url": "https://unstop.com/hackathons/code-fort-2027-chandigarh-university-cu-ajitgarh-punjab-1817736",
+    "deadline": "24 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (ai academia):genai gauntlet 2026 the generative ai showdown": {
+    "title": "GenAI Gauntlet 2026 - The Generative AI Showdown",
+    "norm_title": "genai gauntlet 2026 the generative ai showdown",
+    "platform": "Unstop (AI Academia)",
+    "apply_url": "https://unstop.com/quiz/genai-gauntlet-2026-the-generative-ai-showdown-ai-academia-1817838",
+    "norm_url": "https://unstop.com/quiz/genai-gauntlet-2026-the-generative-ai-showdown-ai-academia-1817838",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (symbiosis institute of business management (sibm), hyderabad):the hr arena think debate dominate": {
+    "title": "The HR Arena : Think, Debate & Dominate",
+    "norm_title": "the hr arena think debate dominate",
+    "platform": "Unstop (Symbiosis Institute of Business Management (SIBM), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/the-hr-arena-think-debate-dominate-sibm-hyderabad-1817691",
+    "norm_url": "https://unstop.com/quiz/the-hr-arena-think-debate-dominate-sibm-hyderabad-1817691",
+    "deadline": "22 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (zeitgeist retail private limited):computer science challenge 2026": {
+    "title": "Computer Science Challenge 2026",
+    "norm_title": "computer science challenge 2026",
+    "platform": "Unstop (Zeitgeist Retail Private Limited)",
+    "apply_url": "https://unstop.com/quiz/computer-science-challenge-2026-zeitgeist-retail-private-limited-1817385",
+    "norm_url": "https://unstop.com/quiz/computer-science-challenge-2026-zeitgeist-retail-private-limited-1817385",
+    "deadline": "03 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (indian institute of management (iim), rohtak):finsight sharpen your financial insight 9": {
+    "title": "FinSight: Sharpen Your Financial Insight - 9",
+    "norm_title": "finsight sharpen your financial insight 9",
+    "platform": "Unstop (Indian Institute of Management (IIM), Rohtak)",
+    "apply_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-9-iim-rohtak-1818707",
+    "norm_url": "https://unstop.com/quiz/finsight-sharpen-your-financial-insight-9-iim-rohtak-1818707",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (prayagraj devhub):pdh gemini frost fest 2026": {
+    "title": "PDH Gemini Frost Fest 2026",
+    "norm_title": "pdh gemini frost fest 2026",
+    "platform": "Unstop (Prayagraj DevHub)",
+    "apply_url": "https://unstop.com/quiz/pdh-gemini-frost-fest-2026-prayagraj-devhub-1804700",
+    "norm_url": "https://unstop.com/quiz/pdh-gemini-frost-fest-2026-prayagraj-devhub-1804700",
+    "deadline": "26 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (logicwiz):logicwiz open free team quiz 10 minutes a day plays till 3 december": {
+    "title": "LogicWiz Open: Free Team Quiz, 10 Minutes a Day (plays till 3 December)",
+    "norm_title": "logicwiz open free team quiz 10 minutes a day plays till 3 december",
+    "platform": "Unstop (LogicWiz)",
+    "apply_url": "https://unstop.com/quiz/logicwiz-open-free-team-quiz-10-minutes-a-day-plays-till-3-december-logicwiz-1817692",
+    "norm_url": "https://unstop.com/quiz/logicwiz-open-free-team-quiz-10-minutes-a-day-plays-till-3-december-logicwiz-1817692",
+    "deadline": "03 Dec 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (army institute of technology (ait), pune):code quiz logic bumble": {
+    "title": "Code Quiz (Logic Bumble)",
+    "norm_title": "code quiz logic bumble",
+    "platform": "Unstop (Army Institute of Technology (AIT), Pune)",
+    "apply_url": "https://unstop.com/quiz/code-quiz-logic-bumble-army-institute-of-technology-ait-pune-1819017",
+    "norm_url": "https://unstop.com/quiz/code-quiz-logic-bumble-army-institute-of-technology-ait-pune-1819017",
+    "deadline": "19 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (ai academia):ai iq challenge": {
+    "title": "AI IQ Challenge",
+    "norm_title": "ai iq challenge",
+    "platform": "Unstop (AI Academia)",
+    "apply_url": "https://unstop.com/quiz/ai-iq-challenge-ai-academia-1817741",
+    "norm_url": "https://unstop.com/quiz/ai-iq-challenge-ai-academia-1817741",
+    "deadline": "29 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop (ai xplore):ai xplore presents the ultimate ai challenge 2026": {
+    "title": "AI Xplore presents: The Ultimate AI Challenge 2026",
+    "norm_title": "ai xplore presents the ultimate ai challenge 2026",
+    "platform": "Unstop (AI Xplore)",
+    "apply_url": "https://unstop.com/quiz/ai-xplore-presents-the-ultimate-ai-challenge-2026-ai-xplore-1814246",
+    "norm_url": "https://unstop.com/quiz/ai-xplore-presents-the-ultimate-ai-challenge-2026-ai-xplore-1814246",
+    "deadline": "30 Nov 2026",
+    "first_seen": "2026-11-19T10:36:25.177131+00:00"
   }
 }
