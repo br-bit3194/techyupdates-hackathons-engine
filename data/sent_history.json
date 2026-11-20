@@ -2887,5 +2887,104 @@
     "norm_url": "https://unstop.com/quiz/ai-xplore-presents-the-ultimate-ai-challenge-2026-ai-xplore-1814246",
     "deadline": "30 Nov 2026",
     "first_seen": "2026-11-19T10:36:25.177131+00:00"
+  },
+  "unstop:circuitx": {
+    "title": "CircuitX",
+    "norm_title": "circuitx",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+    "norm_url": "https://unstop.com/hackathons/circuitx-bms-institute-of-technology-and-management-bmsitm-bangalore-1811526",
+    "deadline": "20 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:merry shipmas bengaluru christmas ai hackathon": {
+    "title": "Merry Shipmas Bengaluru: Christmas AI Hackathon",
+    "norm_title": "merry shipmas bengaluru christmas ai hackathon",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
+    "norm_url": "https://unstop.com/hackathons/merry-shipmas-bengaluru-christmas-ai-hackathon-nerdconf-1820028",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:myonne national bug bounty challenge 2026": {
+    "title": "MyOnne National Bug Bounty Challenge 2026",
+    "norm_title": "myonne national bug bounty challenge 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
+    "norm_url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:buildfest 2026": {
+    "title": "Buildfest 2026",
+    "norm_title": "buildfest 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
+    "norm_url": "https://unstop.com/hackathons/buildfest-2026-learnix-labs-1814814",
+    "deadline": "30 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:truefoundry forgeathon techfest iit bombay 202627": {
+    "title": "TrueFoundry Forge-a-thon | Techfest, IIT Bombay 2026-27",
+    "norm_title": "truefoundry forgeathon techfest iit bombay 202627",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/truefoundry-forge-a-thon-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819296",
+    "norm_url": "https://unstop.com/hackathons/truefoundry-forge-a-thon-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819296",
+    "deadline": "18 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:rajasthan police hackathon 2026": {
+    "title": "Rajasthan Police Hackathon 2026",
+    "norm_title": "rajasthan police hackathon 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
+    "norm_url": "https://unstop.com/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639",
+    "deadline": "29 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:innovate x": {
+    "title": "INNOVATE X",
+    "norm_title": "innovate x",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+    "norm_url": "https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980",
+    "deadline": "20 Nov 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:quiz carnival 2026": {
+    "title": "Quiz Carnival 2026",
+    "norm_title": "quiz carnival 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/quiz-carnival-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1811342",
+    "norm_url": "https://unstop.com/quiz/quiz-carnival-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1811342",
+    "deadline": "29 Nov 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:cs arena 2026 7day computer science quiz series": {
+    "title": "CS Arena 2026 - 7-Day Computer Science Quiz Series",
+    "norm_title": "cs arena 2026 7day computer science quiz series",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/cs-arena-2026-7-day-computer-science-quiz-series-the-national-institute-of-engineering-karnataka-1820730",
+    "norm_url": "https://unstop.com/quiz/cs-arena-2026-7-day-computer-science-quiz-series-the-national-institute-of-engineering-karnataka-1820730",
+    "deadline": "25 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:branded buttered quiz 7 the local twist": {
+    "title": "Branded & Buttered: Quiz 7 : The Local Twist",
+    "norm_title": "branded buttered quiz 7 the local twist",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/quiz/branded-buttered-quiz-7-the-local-twist-iim-rohtak-1789916",
+    "norm_url": "https://unstop.com/quiz/branded-buttered-quiz-7-the-local-twist-iim-rohtak-1789916",
+    "deadline": "21 Nov 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
+  },
+  "unstop:wealthnest national case study challenge 2026": {
+    "title": "WealthNest National Case Study Challenge 2026",
+    "norm_title": "wealthnest national case study challenge 2026",
+    "platform": "Unstop",
+    "apply_url": "https://unstop.com/competitions/wealthnest-national-case-study-challenge-2026-wealthnest-1819278",
+    "norm_url": "https://unstop.com/competitions/wealthnest-national-case-study-challenge-2026-wealthnest-1819278",
+    "deadline": "06 Dec 2026",
+    "first_seen": "2026-11-20T10:18:09.384267+00:00"
   }
 }
