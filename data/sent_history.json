@@ -1,94 +1,4 @@
 {
-  "unstop (tbo.com):voyagehack 40": {
-    "title": "VOYAGEHACK 4.0",
-    "norm_title": "voyagehack 40",
-    "platform": "Unstop (TBO.com)",
-    "apply_url": "https://unstop.com/competitions/crp-voyagehack-40-tbocom-1774031",
-    "norm_url": "https://unstop.com/competitions/crp-voyagehack-40-tbocom-1774031",
-    "deadline": "08 Jan 2027",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "unstop (iit patna):zeckathon": {
-    "title": "Zeckathon",
-    "norm_title": "zeckathon",
-    "platform": "Unstop (IIT Patna)",
-    "apply_url": "https://unstop.com/hackathons/zeckathon-indian-institute-of-technology-iit-patna-1776287",
-    "norm_url": "https://unstop.com/hackathons/zeckathon-indian-institute-of-technology-iit-patna-1776287",
-    "deadline": "29 Nov 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "unstop (indiastox):indian macro prediction challenge": {
-    "title": "Indian Macro Prediction Challenge",
-    "norm_title": "indian macro prediction challenge",
-    "platform": "Unstop (Indiastox)",
-    "apply_url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1775305",
-    "norm_url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1775305",
-    "deadline": "31 Oct 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "unstop (krixov):build 2 rise 2026": {
-    "title": "Build 2 Rise 2026",
-    "norm_title": "build 2 rise 2026",
-    "platform": "Unstop (Krixov)",
-    "apply_url": "https://unstop.com/hackathons/build-2-rise-2026-krixov-1775217",
-    "norm_url": "https://unstop.com/hackathons/build-2-rise-2026-krixov-1775217",
-    "deadline": "18 Nov 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "unstop (airtel):airtel sync 2026 network track": {
-    "title": "Airtel Sync 2026 - Network Track",
-    "norm_title": "airtel sync 2026 network track",
-    "platform": "Unstop (Airtel)",
-    "apply_url": "https://unstop.com/competitions/crp-airtel-sync-2026-network-track-airtel-sync-2026-airtel-1736256",
-    "norm_url": "https://unstop.com/competitions/crp-airtel-sync-2026-network-track-airtel-sync-2026-airtel-1736256",
-    "deadline": "23 Nov 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "unstop (airtel):airtel sync 2026 digital track": {
-    "title": "Airtel Sync 2026 - Digital Track",
-    "norm_title": "airtel sync 2026 digital track",
-    "platform": "Unstop (Airtel)",
-    "apply_url": "https://unstop.com/competitions/crp-airtel-sync-2026-digital-track-airtel-sync-2026-airtel-1766609",
-    "norm_url": "https://unstop.com/competitions/crp-airtel-sync-2026-digital-track-airtel-sync-2026-airtel-1766609",
-    "deadline": "23 Nov 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "superteam earn:raptorx research challenge ask better questions find better alpha": {
-    "title": "RaptorX Research Challenge: Ask Better Questions. Find Better Alpha.",
-    "norm_title": "raptorx research challenge ask better questions find better alpha",
-    "platform": "Superteam Earn",
-    "apply_url": "https://earn.superteam.fun/listings/bounties/raptorx-research-challenge-ask-better-questions-find-better-alpha",
-    "norm_url": "https://earn.superteam.fun/listings/bounties/raptorx-research-challenge-ask-better-questions-find-better-alpha",
-    "deadline": "02 Nov 2026",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "microsoft:microsoft imagine cup 2026 global championship": {
-    "title": "Microsoft Imagine Cup 2026 Global Championship",
-    "norm_title": "microsoft imagine cup 2026 global championship",
-    "platform": "Microsoft",
-    "apply_url": "https://imaginecup.microsoft.com/",
-    "norm_url": "https://imaginecup.microsoft.com",
-    "deadline": "Application Live",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "infosys:infosys hackwithinfy 2026": {
-    "title": "Infosys HackWithInfy 2026",
-    "norm_title": "infosys hackwithinfy 2026",
-    "platform": "Infosys",
-    "apply_url": "https://infytq.onwingspan.com/",
-    "norm_url": "https://infytq.onwingspan.com",
-    "deadline": "Season Open",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
-  "amazon web services (aws):aws deepracer student league 2026": {
-    "title": "AWS DeepRacer Student League 2026",
-    "norm_title": "aws deepracer student league 2026",
-    "platform": "Amazon Web Services (AWS)",
-    "apply_url": "https://aws.amazon.com/deepracer/league/",
-    "norm_url": "https://aws.amazon.com/deepracer/league",
-    "deadline": "Monthly Season Sprints",
-    "first_seen": "2026-10-26T08:00:51.591176+00:00"
-  },
   "unstop (aeglysai):aegython 2026": {
     "title": "Aegython 2026",
     "norm_title": "aegython 2026",
@@ -3418,5 +3328,212 @@
     "norm_url": "https://unstop.com/competitions/bughunt-gdg-x-uvin-central-university-of-jammu-1825865",
     "deadline": "28 Dec 2026",
     "first_seen": "2026-11-24T12:48:55.476298+00:00"
+  },
+  "unstop (proton solutions):ai codestorm 2026": {
+    "title": "AI CodeStorm 2026",
+    "norm_title": "ai codestorm 2026",
+    "platform": "Unstop (Proton Solutions)",
+    "apply_url": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+    "norm_url": "https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401",
+    "deadline": "31 Jan 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (softlink global ltd):logithon 2026": {
+    "title": "LogiTHON 2026",
+    "norm_title": "logithon 2026",
+    "platform": "Unstop (Softlink Global Ltd)",
+    "apply_url": "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287",
+    "norm_url": "https://unstop.com/hackathons/logithon-2026-softlink-global-ltd-1827287",
+    "deadline": "04 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (psit college of engineering (psitcoe), kanpur, uttar pradesh):nexora ai national ai innovation hackathon 2026": {
+    "title": "Nexora AI – National AI & Innovation Hackathon 2026",
+    "norm_title": "nexora ai national ai innovation hackathon 2026",
+    "platform": "Unstop (PSIT College of Engineering (PSITcoe), Kanpur, Uttar Pradesh)",
+    "apply_url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+    "norm_url": "https://unstop.com/hackathons/nexora-ai-national-ai-innovation-hackathon-2026-psit-college-of-engineering-psitcoe-kanpur-uttar-pradesh-1812323",
+    "deadline": "31 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (comemor):comemor contributor challenge": {
+    "title": "CoMemor Contributor Challenge",
+    "norm_title": "comemor contributor challenge",
+    "platform": "Unstop (CoMemor)",
+    "apply_url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+    "norm_url": "https://unstop.com/hackathons/comemor-contributor-challenge-comemor-1825938",
+    "deadline": "15 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (rajasthan institute of engineering and technology, jaipur ):enigma 20 24hour national level hackathon riet jaipur": {
+    "title": "Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur",
+    "norm_title": "enigma 20 24hour national level hackathon riet jaipur",
+    "platform": "Unstop (Rajasthan institute of engineering and technology, Jaipur )",
+    "apply_url": "https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269",
+    "norm_url": "https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269",
+    "deadline": "15 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (icfai business school (ibs), pune):utopia stock exchange": {
+    "title": "Utopia Stock Exchange",
+    "norm_title": "utopia stock exchange",
+    "platform": "Unstop (ICFAI Business School (IBS), Pune)",
+    "apply_url": "https://unstop.com/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
+    "norm_url": "https://unstop.com/hackathons/utopia-stock-exchange-icfai-business-school-ibs-pune-1827808",
+    "deadline": "10 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (proton solutions):finance next hackathon 2026": {
+    "title": "Finance Next Hackathon 2026",
+    "norm_title": "finance next hackathon 2026",
+    "platform": "Unstop (Proton Solutions)",
+    "apply_url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+    "norm_url": "https://unstop.com/hackathons/finance-next-hackathon-2026-proton-solutions-1827472",
+    "deadline": "30 Jan 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (mlr institute of technology (mlrit), hyderabad):zenith2k26": {
+    "title": "Zenith'2k26",
+    "norm_title": "zenith2k26",
+    "platform": "Unstop (MLR Institute Of Technology (MLRIT), Hyderabad)",
+    "apply_url": "https://unstop.com/hackathons/zenith2k26-mlr-institute-of-technology-mlrit-hyderabad-1826211",
+    "norm_url": "https://unstop.com/hackathons/zenith2k26-mlr-institute-of-technology-mlrit-hyderabad-1826211",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (divergent classes):divergent merch design challenge": {
+    "title": "Divergent Merch Design Challenge",
+    "norm_title": "divergent merch design challenge",
+    "platform": "Unstop (Divergent Classes)",
+    "apply_url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+    "norm_url": "https://unstop.com/hackathons/divergent-merch-design-challenge-divergent-classes-1814036",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (buildx):tryhackingme hackathon": {
+    "title": "TryHackingMe Hackathon",
+    "norm_title": "tryhackingme hackathon",
+    "platform": "Unstop (BuildX)",
+    "apply_url": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+    "norm_url": "https://unstop.com/hackathons/tryhackingme-hackathon-buildx-1826567",
+    "deadline": "28 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (abes engineering college):fundamental cloud computing quiz": {
+    "title": "Fundamental Cloud Computing Quiz",
+    "norm_title": "fundamental cloud computing quiz",
+    "platform": "Unstop (Abes Engineering College)",
+    "apply_url": "https://unstop.com/quiz/fundamental-cloud-computing-quiz-abes-engineering-college-1827267",
+    "norm_url": "https://unstop.com/quiz/fundamental-cloud-computing-quiz-abes-engineering-college-1827267",
+    "deadline": "10 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (great lakes institute of management (glim), chennai):melas media entertainment literature arts and sports quiz": {
+    "title": "MELAS - Media, Entertainment, Literature, Arts and Sports Quiz",
+    "norm_title": "melas media entertainment literature arts and sports quiz",
+    "platform": "Unstop (Great Lakes Institute of Management (GLIM), Chennai)",
+    "apply_url": "https://unstop.com/quiz/melas-media-entertainment-literature-arts-and-sports-quiz-lattitude-1305-great-lakes-institute-of-management-glim-c-1827899",
+    "norm_url": "https://unstop.com/quiz/melas-media-entertainment-literature-arts-and-sports-quiz-lattitude-1305-great-lakes-institute-of-management-glim-c-1827899",
+    "deadline": "10 Feb 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (indian institute of management (iim), indore):jigyasa": {
+    "title": "Jigyasa",
+    "norm_title": "jigyasa",
+    "platform": "Unstop (Indian Institute of Management (IIM), Indore)",
+    "apply_url": "https://unstop.com/quiz/jigyasa-iris-2027-iim-indore-1823675",
+    "norm_url": "https://unstop.com/quiz/jigyasa-iris-2027-iim-indore-1823675",
+    "deadline": "15 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (the north axis):find your north 2026 the career compass challenge": {
+    "title": "Find Your North 2026: The Career Compass Challenge",
+    "norm_title": "find your north 2026 the career compass challenge",
+    "platform": "Unstop (The North Axis)",
+    "apply_url": "https://unstop.com/quiz/find-your-north-2026-the-career-compass-challenge-the-north-axis-1824861",
+    "norm_url": "https://unstop.com/quiz/find-your-north-2026-the-career-compass-challenge-the-north-axis-1824861",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (tata group):tata crucible campus quiz 2026": {
+    "title": "Tata Crucible Campus Quiz 2026",
+    "norm_title": "tata crucible campus quiz 2026",
+    "platform": "Unstop (Tata Group)",
+    "apply_url": "https://unstop.com/quiz/crp-tata-crucible-campus-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1772214",
+    "norm_url": "https://unstop.com/quiz/crp-tata-crucible-campus-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1772214",
+    "deadline": "01 May 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (tata group):tata crucible business quiz 2026": {
+    "title": "Tata Crucible Business Quiz 2026",
+    "norm_title": "tata crucible business quiz 2026",
+    "platform": "Unstop (Tata Group)",
+    "apply_url": "https://unstop.com/quiz/crp-tata-crucible-business-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1773974",
+    "norm_url": "https://unstop.com/quiz/crp-tata-crucible-business-quiz-2026-tata-crucible-quiz-2026-2027-tata-group-1773974",
+    "deadline": "14 Apr 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (gresbond by kajaria):the challenger": {
+    "title": "The Challenger",
+    "norm_title": "the challenger",
+    "platform": "Unstop (Gresbond by Kajaria)",
+    "apply_url": "https://unstop.com/competitions/crp-the-challenger-gresbond-by-kajaria-1815488",
+    "norm_url": "https://unstop.com/competitions/crp-the-challenger-gresbond-by-kajaria-1815488",
+    "deadline": "08 Jan 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (interactup):be a cofounder build indias next social experiences brand": {
+    "title": "Be a Co-Founder: Build India's Next Social Experiences Brand",
+    "norm_title": "be a cofounder build indias next social experiences brand",
+    "platform": "Unstop (InteractUp)",
+    "apply_url": "https://unstop.com/competitions/be-a-co-founder-strangers-meet-and-event-hosting-interactup-1825465",
+    "norm_url": "https://unstop.com/competitions/be-a-co-founder-strangers-meet-and-event-hosting-interactup-1825465",
+    "deadline": "30 Jan 2027",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (indiastox):indian macro prediction challenge": {
+    "title": "Indian Macro Prediction Challenge",
+    "norm_title": "indian macro prediction challenge",
+    "platform": "Unstop (Indiastox)",
+    "apply_url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1822713",
+    "norm_url": "https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1822713",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "superteam earn:create earn explore tokenpockets transfer features": {
+    "title": "Create & Earn: Explore TokenPocket’s Transfer Features",
+    "norm_title": "create earn explore tokenpockets transfer features",
+    "platform": "Superteam Earn",
+    "apply_url": "https://earn.superteam.fun/listings/bounties/create-and-earn-explore-tokenpockets-transfer-features",
+    "norm_url": "https://earn.superteam.fun/listings/bounties/create-and-earn-explore-tokenpockets-transfer-features",
+    "deadline": "2026-12-07",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "microsoft:microsoft imagine cup 2026 global championship": {
+    "title": "Microsoft Imagine Cup 2026 Global Championship",
+    "norm_title": "microsoft imagine cup 2026 global championship",
+    "platform": "Microsoft",
+    "apply_url": "https://imaginecup.microsoft.com/",
+    "norm_url": "https://imaginecup.microsoft.com",
+    "deadline": "Application Live",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "infosys:infosys hackwithinfy 2026": {
+    "title": "Infosys HackWithInfy 2026",
+    "norm_title": "infosys hackwithinfy 2026",
+    "platform": "Infosys",
+    "apply_url": "https://infytq.onwingspan.com/",
+    "norm_url": "https://infytq.onwingspan.com",
+    "deadline": "Season Open",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "amazon web services (aws):aws deepracer student league 2026": {
+    "title": "AWS DeepRacer Student League 2026",
+    "norm_title": "aws deepracer student league 2026",
+    "platform": "Amazon Web Services (AWS)",
+    "apply_url": "https://aws.amazon.com/deepracer/league/",
+    "norm_url": "https://aws.amazon.com/deepracer/league",
+    "deadline": "Monthly Season Sprints",
+    "first_seen": "2026-11-25T11:36:22.965591+00:00"
   }
 }
