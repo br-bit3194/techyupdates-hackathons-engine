@@ -1,13 +1,4 @@
 {
-  "unstop (aeglysai):aegython 2026": {
-    "title": "Aegython 2026",
-    "norm_title": "aegython 2026",
-    "platform": "Unstop (AeglysAI)",
-    "apply_url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
-    "norm_url": "https://unstop.com/hackathons/aegython-2026-aeglysai-1777958",
-    "deadline": "06 Nov 2026",
-    "first_seen": "2026-10-27T08:10:54.079445+00:00"
-  },
   "unstop (tekion):tekqubit women of impact 2026": {
     "title": "Tek-Qubit: Women of Impact 2026",
     "norm_title": "tekqubit women of impact 2026",
@@ -3535,5 +3526,257 @@
     "norm_url": "https://aws.amazon.com/deepracer/league",
     "deadline": "Monthly Season Sprints",
     "first_seen": "2026-11-25T11:36:22.965591+00:00"
+  },
+  "unstop (stampers):snow code": {
+    "title": "Snow Code",
+    "norm_title": "snow code",
+    "platform": "Unstop (STAMPERS)",
+    "apply_url": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "norm_url": "https://unstop.com/hackathons/snow-code-stampers-1828497",
+    "deadline": "11 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (rastrakavi ramdhari singh dinkar college of engineering(rrsdce), begusarai):online coding challenge": {
+    "title": "Online Coding Challenge",
+    "norm_title": "online coding challenge",
+    "platform": "Unstop (Rastrakavi Ramdhari Singh Dinkar College of Engineering(RRSDCE), Begusarai)",
+    "apply_url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "norm_url": "https://unstop.com/hackathons/online-coding-challenge-rastrakavi-ramdhari-singh-dinkar-college-of-engineeringrrsdce-begusarai-1828749",
+    "deadline": "03 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (kalindi college (kc), university of delhi (du), delhi):imagine the impossible the game design challenge": {
+    "title": "Imagine the Impossible: The Game Design Challenge",
+    "norm_title": "imagine the impossible the game design challenge",
+    "platform": "Unstop (Kalindi College (KC), University of Delhi (DU), Delhi)",
+    "apply_url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "norm_url": "https://unstop.com/hackathons/imagine-the-impossible-the-game-design-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1826953",
+    "deadline": "28 Nov 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (trishulx):hackday dec": {
+    "title": "Hackday Dec",
+    "norm_title": "hackday dec",
+    "platform": "Unstop (TrishulX)",
+    "apply_url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+    "norm_url": "https://unstop.com/hackathons/hackday-dec-trishulx-1828678",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):hack for good open innovation hackathon": {
+    "title": "Hack for Good: Open Innovation Hackathon",
+    "norm_title": "hack for good open innovation hackathon",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+    "norm_url": "https://unstop.com/hackathons/hack-for-good-open-innovation-hackathon-ibs-hyderabad-1828382",
+    "deadline": "09 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (lnct group of colleges, bhopal, madhya pradesh):hackxcraft 6house housebased coding challenge": {
+    "title": "HackxCraft – 6-House House-Based Coding Challenge",
+    "norm_title": "hackxcraft 6house housebased coding challenge",
+    "platform": "Unstop (LNCT Group of Colleges, Bhopal, Madhya Pradesh)",
+    "apply_url": "https://unstop.com/hackathons/hackxcraft-6-house-house-based-coding-challenge-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825414",
+    "norm_url": "https://unstop.com/hackathons/hackxcraft-6-house-house-based-coding-challenge-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825414",
+    "deadline": "24 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (404 afterhours):404 not foundhackathon edition": {
+    "title": "404 Not Found:Hackathon edition",
+    "norm_title": "404 not foundhackathon edition",
+    "platform": "Unstop (404 Afterhours)",
+    "apply_url": "https://unstop.com/hackathons/404-not-foundhackathon-edition-404-afterhours-1828118",
+    "norm_url": "https://unstop.com/hackathons/404-not-foundhackathon-edition-404-afterhours-1828118",
+    "deadline": "31 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (centre for cybersecurity, trust and reliability, iit madras (cystar)):protocol zero boot hack ctf": {
+    "title": "Protocol Zero: Boot | Hack | CTF",
+    "norm_title": "protocol zero boot hack ctf",
+    "platform": "Unstop (Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar))",
+    "apply_url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "norm_url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+    "deadline": "13 Mar 2027",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (proton solutions):agentic ai hackathon 2026": {
+    "title": "Agentic AI Hackathon 2026",
+    "norm_title": "agentic ai hackathon 2026",
+    "platform": "Unstop (Proton Solutions)",
+    "apply_url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "norm_url": "https://unstop.com/hackathons/agentic-ai-hackathon-2026-proton-solutions-1828890",
+    "deadline": "10 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (sieeds):univion chronos de novo": {
+    "title": "UNIVION: CHRONOS DE NOVO",
+    "norm_title": "univion chronos de novo",
+    "platform": "Unstop (SIEEDS)",
+    "apply_url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "norm_url": "https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867",
+    "deadline": "16 Jan 2027",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (wecodecoders):codepulse 48 national hackathon": {
+    "title": "CodePulse 48 - National Hackathon",
+    "norm_title": "codepulse 48 national hackathon",
+    "platform": "Unstop (WeCodeCoders)",
+    "apply_url": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "norm_url": "https://unstop.com/hackathons/codepulse-48-national-hackathon-wecodecoders-1827866",
+    "deadline": "29 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (st. vincent pallotti college of engineering and technology (svpcet), nagpur):hack the hardware": {
+    "title": "Hack The Hardware",
+    "norm_title": "hack the hardware",
+    "platform": "Unstop (St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur)",
+    "apply_url": "https://unstop.com/hackathons/hack-the-hardware-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820851",
+    "norm_url": "https://unstop.com/hackathons/hack-the-hardware-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1820851",
+    "deadline": "20 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (shri ram college of commerce (srcc)):national finance olympiad 2027": {
+    "title": "National Finance Olympiad 2027",
+    "norm_title": "national finance olympiad 2027",
+    "platform": "Unstop (Shri Ram College of Commerce (SRCC))",
+    "apply_url": "https://unstop.com/quiz/national-finance-olympiad-2027-shri-ram-college-of-commerce-srcc-1772202",
+    "norm_url": "https://unstop.com/quiz/national-finance-olympiad-2027-shri-ram-college-of-commerce-srcc-1772202",
+    "deadline": "31 Jan 2027",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (jntua college of engineering pulivendula, pulivendula):apset 2027 cse": {
+    "title": "APSET 2027 - CSE",
+    "norm_title": "apset 2027 cse",
+    "platform": "Unstop (JNTUA College of Engineering Pulivendula, Pulivendula)",
+    "apply_url": "https://unstop.com/quiz/apset-2027-cse-jntua-college-of-engineering-pulivendula-pulivendula-1806031",
+    "norm_url": "https://unstop.com/quiz/apset-2027-cse-jntua-college-of-engineering-pulivendula-pulivendula-1806031",
+    "deadline": "08 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):guess the impossible": {
+    "title": "Guess the Impossible",
+    "norm_title": "guess the impossible",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/guess-the-impossible-ibs-hyderabad-1828174",
+    "norm_url": "https://unstop.com/quiz/guess-the-impossible-ibs-hyderabad-1828174",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):the wordsmith wars": {
+    "title": "The Wordsmith Wars",
+    "norm_title": "the wordsmith wars",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/the-wordsmith-wars-ibs-hyderabad-1828179",
+    "norm_url": "https://unstop.com/quiz/the-wordsmith-wars-ibs-hyderabad-1828179",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (symbiosis centre for management and human resource development (scmhrd)):official snap mock test by scmhrd": {
+    "title": "Official SNAP Mock Test by SCMHRD",
+    "norm_title": "official snap mock test by scmhrd",
+    "platform": "Unstop (Symbiosis Centre for Management and Human Resource Development (SCMHRD))",
+    "apply_url": "https://unstop.com/quiz/official-snap-mock-test-by-scmhrd--1828005",
+    "norm_url": "https://unstop.com/quiz/official-snap-mock-test-by-scmhrd--1828005",
+    "deadline": "25 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (indian institute of management (iim) lucknow - noida campus):bizz quiz by sanrakshan26": {
+    "title": "Bizz Quiz by Sanrakshan’26",
+    "norm_title": "bizz quiz by sanrakshan26",
+    "platform": "Unstop (Indian Institute Of Management (IIM) Lucknow - Noida Campus)",
+    "apply_url": "https://unstop.com/quiz/bizz-quiz-by-sanrakshan26-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-iim-luckn-1826973",
+    "norm_url": "https://unstop.com/quiz/bizz-quiz-by-sanrakshan26-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-iim-luckn-1826973",
+    "deadline": "13 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):tech pulse technology quiz": {
+    "title": "Tech Pulse: Technology Quiz",
+    "norm_title": "tech pulse technology quiz",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/tech-pulse-technology-quiz-ibs-hyderabad-1828169",
+    "norm_url": "https://unstop.com/quiz/tech-pulse-technology-quiz-ibs-hyderabad-1828169",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (m.kumarasamy college of engineering (mkce), karur, tamil nadu):mobile app club powered by iste neural drift 26": {
+    "title": "Mobile App Club Powered By ISTE - Neural Drift '26",
+    "norm_title": "mobile app club powered by iste neural drift 26",
+    "platform": "Unstop (M.Kumarasamy College of Engineering (MKCE), Karur, Tamil Nadu)",
+    "apply_url": "https://unstop.com/quiz/mobile-app-club-powered-by-iste-neural-drift-26-mkumarasamy-college-of-engineering-mkce-karur-tamil-nadu-1828461",
+    "norm_url": "https://unstop.com/quiz/mobile-app-club-powered-by-iste-neural-drift-26-mkumarasamy-college-of-engineering-mkce-karur-tamil-nadu-1828461",
+    "deadline": "26 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (inspire leap pvt ltd):nextgen tech quiz 2026": {
+    "title": "NextGen Tech Quiz 2026",
+    "norm_title": "nextgen tech quiz 2026",
+    "platform": "Unstop (Inspire Leap Pvt Ltd)",
+    "apply_url": "https://unstop.com/quiz/nextgen-tech-quiz-2026-inspire-leap-pvt-ltd-1827890",
+    "norm_url": "https://unstop.com/quiz/nextgen-tech-quiz-2026-inspire-leap-pvt-ltd-1827890",
+    "deadline": "10 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):hack or be hacked": {
+    "title": "Hack or Be Hacked",
+    "norm_title": "hack or be hacked",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/hack-or-be-hacked-ibs-hyderabad-1828107",
+    "norm_url": "https://unstop.com/quiz/hack-or-be-hacked-ibs-hyderabad-1828107",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (icfai business school (ibs), hyderabad):crisis command cyber incident simulation": {
+    "title": "Crisis Command: Cyber Incident Simulation",
+    "norm_title": "crisis command cyber incident simulation",
+    "platform": "Unstop (ICFAI Business School (IBS), Hyderabad)",
+    "apply_url": "https://unstop.com/quiz/crisis-command-cyber-incident-simulation-ibs-hyderabad-1828158",
+    "norm_url": "https://unstop.com/quiz/crisis-command-cyber-incident-simulation-ibs-hyderabad-1828158",
+    "deadline": "12 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (indian institute of management (iim), rohtak):the rewards equation": {
+    "title": "The Rewards Equation",
+    "norm_title": "the rewards equation",
+    "platform": "Unstop (Indian Institute of Management (IIM), Rohtak)",
+    "apply_url": "https://unstop.com/quiz/the-rewards-equation-iim-rohtak-1828114",
+    "norm_url": "https://unstop.com/quiz/the-rewards-equation-iim-rohtak-1828114",
+    "deadline": "27 Nov 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (indian institute of management (iim), rohtak):the performance playbook": {
+    "title": "The Performance Playbook",
+    "norm_title": "the performance playbook",
+    "platform": "Unstop (Indian Institute of Management (IIM), Rohtak)",
+    "apply_url": "https://unstop.com/quiz/the-performance-playbook-iim-rohtak-1828065",
+    "norm_url": "https://unstop.com/quiz/the-performance-playbook-iim-rohtak-1828065",
+    "deadline": "26 Nov 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (great lakes institute of management (glim), chennai):treasure hunt": {
+    "title": "Treasure Hunt",
+    "norm_title": "treasure hunt",
+    "platform": "Unstop (Great Lakes Institute of Management (GLIM), Chennai)",
+    "apply_url": "https://unstop.com/quiz/treasure-hunt-lattitude-1305-great-lakes-institute-of-management-glim-chennai-1827874",
+    "norm_url": "https://unstop.com/quiz/treasure-hunt-lattitude-1305-great-lakes-institute-of-management-glim-chennai-1827874",
+    "deadline": "10 Feb 2027",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (indian institute of technology (iit), kharagpur):kascade kshitij 202627": {
+    "title": "Kascade, Kshitij 2026-27",
+    "norm_title": "kascade kshitij 202627",
+    "platform": "Unstop (Indian Institute of Technology (IIT), Kharagpur)",
+    "apply_url": "https://unstop.com/quiz/kascade-kshitij-2026-27-iit-kharagpur-1827979",
+    "norm_url": "https://unstop.com/quiz/kascade-kshitij-2026-27-iit-kharagpur-1827979",
+    "deadline": "12 Jan 2027",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
+  },
+  "unstop (interactup):international youth summit position challenge dec 2026 edition": {
+    "title": "International Youth Summit Position Challenge - Dec 2026 Edition",
+    "norm_title": "international youth summit position challenge dec 2026 edition",
+    "platform": "Unstop (InteractUp)",
+    "apply_url": "https://unstop.com/competitions/international-youth-summit-position-challenge-dec-2026-edition-interactup-1825463",
+    "norm_url": "https://unstop.com/competitions/international-youth-summit-position-challenge-dec-2026-edition-interactup-1825463",
+    "deadline": "31 Dec 2026",
+    "first_seen": "2026-11-26T11:18:10.180604+00:00"
   }
 }
